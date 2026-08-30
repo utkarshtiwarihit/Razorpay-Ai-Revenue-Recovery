@@ -1,0 +1,1001 @@
+customer_id,risk_category,intervention_type,amount_due,amount_recovered,outstanding_after,recovery_status,communication_status,intervention_date_offset_days
+CUSTOMER_0001,LOW,No Intervention,3683,3683,0,Recovered,Not Sent,-1
+CUSTOMER_0002,LOW,No Intervention,17291,17291,0,Recovered,Not Sent,-7
+CUSTOMER_0003,AT-RISK,Email Reminder,5212,3591,1621,Partially Recovered,Not Sent,-3
+CUSTOMER_0004,LOW,No Intervention,22778,22778,0,Recovered,Not Sent,-2
+CUSTOMER_0005,AT-RISK,Email Reminder,4393,4393,0,Recovered,Not Sent,-6
+CUSTOMER_0006,LOW,No Intervention,12712,12712,0,Recovered,Not Sent,-3
+CUSTOMER_0007,HIGH,Phone Call,13705,13705,0,Recovered,Not Sent,-3
+CUSTOMER_0008,LOW,No Intervention,24837,24837,0,Recovered,Not Sent,-7
+CUSTOMER_0009,LOW,No Intervention,16015,16015,0,Recovered,Not Sent,-5
+CUSTOMER_0010,AT-RISK,Email Reminder,4267,0,4267,Pending,Not Sent,-3
+CUSTOMER_0011,CRITICAL,Manual Follow-up,6879,6879,0,Recovered,Not Sent,-10
+CUSTOMER_0012,LOW,No Intervention,4984,4984,0,Recovered,Not Sent,-1
+CUSTOMER_0013,LOW,No Intervention,18598,18598,0,Recovered,Not Sent,-6
+CUSTOMER_0014,AT-RISK,Email Reminder,20504,0,20504,Pending,Not Sent,-3
+CUSTOMER_0015,LOW,No Intervention,4800,4800,0,Recovered,Not Sent,-2
+CUSTOMER_0016,CRITICAL,Manual Follow-up,11176,11176,0,Recovered,Not Sent,-9
+CUSTOMER_0017,LOW,No Intervention,18782,18782,0,Recovered,Not Sent,-4
+CUSTOMER_0018,LOW,No Intervention,925,925,0,Recovered,Not Sent,-3
+CUSTOMER_0019,LOW,No Intervention,55331,55331,0,Recovered,Not Sent,-1
+CUSTOMER_0020,LOW,No Intervention,3031,3031,0,Recovered,Not Sent,-3
+CUSTOMER_0021,LOW,No Intervention,7926,7926,0,Recovered,Not Sent,-3
+CUSTOMER_0022,AT-RISK,Email Reminder,1563,1563,0,Recovered,Not Sent,-6
+CUSTOMER_0023,LOW,No Intervention,5080,5080,0,Recovered,Not Sent,-7
+CUSTOMER_0024,AT-RISK,Email Reminder,3052,3052,0,Recovered,Not Sent,-9
+CUSTOMER_0025,LOW,No Intervention,1124,1124,0,Recovered,Not Sent,-6
+CUSTOMER_0026,AT-RISK,Email Reminder,5482,5482,0,Recovered,Not Sent,-1
+CUSTOMER_0027,HIGH,Phone Call,11745,0,11745,Not Recovered,Not Sent,-9
+CUSTOMER_0028,AT-RISK,Email Reminder,9662,3972,5690,Partially Recovered,Not Sent,-8
+CUSTOMER_0029,LOW,No Intervention,11367,11367,0,Recovered,Not Sent,-3
+CUSTOMER_0030,LOW,No Intervention,5575,5575,0,Recovered,Not Sent,-10
+CUSTOMER_0031,LOW,No Intervention,11864,11864,0,Recovered,Not Sent,-1
+CUSTOMER_0032,LOW,No Intervention,11604,11604,0,Recovered,Not Sent,-7
+CUSTOMER_0033,AT-RISK,Email Reminder,7663,5193,2470,Partially Recovered,Not Sent,-5
+CUSTOMER_0034,LOW,No Intervention,10016,10016,0,Recovered,Not Sent,-7
+CUSTOMER_0035,AT-RISK,Email Reminder,3322,3322,0,Recovered,Not Sent,-2
+CUSTOMER_0036,HIGH,Phone Call,5579,0,5579,Not Recovered,Not Sent,-4
+CUSTOMER_0037,AT-RISK,Email Reminder,4792,0,4792,Pending,Not Sent,-3
+CUSTOMER_0038,HIGH,Phone Call,6517,3459,3058,Partially Recovered,Not Sent,-2
+CUSTOMER_0039,LOW,No Intervention,6946,6946,0,Recovered,Not Sent,-5
+CUSTOMER_0040,LOW,No Intervention,7487,7487,0,Recovered,Not Sent,-3
+CUSTOMER_0041,LOW,No Intervention,8385,8385,0,Recovered,Not Sent,-5
+CUSTOMER_0042,AT-RISK,Email Reminder,7379,4985,2394,Partially Recovered,Not Sent,-10
+CUSTOMER_0043,HIGH,Phone Call,5839,0,5839,Pending,Not Sent,-4
+CUSTOMER_0044,LOW,No Intervention,7215,7215,0,Recovered,Not Sent,-4
+CUSTOMER_0045,AT-RISK,Email Reminder,6704,6704,0,Recovered,Not Sent,-6
+CUSTOMER_0046,LOW,No Intervention,29328,29328,0,Recovered,Not Sent,-4
+CUSTOMER_0047,LOW,No Intervention,6652,6652,0,Recovered,Not Sent,-5
+CUSTOMER_0048,AT-RISK,Email Reminder,30374,30374,0,Recovered,Not Sent,-4
+CUSTOMER_0049,HIGH,Phone Call,6951,6951,0,Recovered,Not Sent,-2
+CUSTOMER_0050,LOW,No Intervention,6703,6703,0,Recovered,Not Sent,-5
+CUSTOMER_0051,LOW,No Intervention,38037,38037,0,Recovered,Not Sent,-5
+CUSTOMER_0052,HIGH,Phone Call,8079,0,8079,Pending,Not Sent,-1
+CUSTOMER_0053,LOW,No Intervention,8509,8509,0,Recovered,Not Sent,-2
+CUSTOMER_0054,LOW,No Intervention,12665,12665,0,Recovered,Not Sent,-5
+CUSTOMER_0055,HIGH,Phone Call,1077,0,1077,Not Recovered,Not Sent,-2
+CUSTOMER_0056,LOW,No Intervention,4709,4709,0,Recovered,Not Sent,-3
+CUSTOMER_0057,LOW,No Intervention,10936,10936,0,Recovered,Not Sent,-6
+CUSTOMER_0058,HIGH,Phone Call,2421,2421,0,Recovered,Not Sent,-1
+CUSTOMER_0059,LOW,No Intervention,3102,3102,0,Recovered,Not Sent,-8
+CUSTOMER_0060,HIGH,Phone Call,17822,0,17822,Pending,Not Sent,-10
+CUSTOMER_0061,LOW,No Intervention,4735,4735,0,Recovered,Not Sent,-10
+CUSTOMER_0062,AT-RISK,Email Reminder,7379,7379,0,Recovered,Not Sent,-9
+CUSTOMER_0063,LOW,No Intervention,7387,7387,0,Recovered,Not Sent,-6
+CUSTOMER_0064,HIGH,Phone Call,4893,4893,0,Recovered,Not Sent,-1
+CUSTOMER_0065,LOW,No Intervention,933,933,0,Recovered,Not Sent,-8
+CUSTOMER_0066,AT-RISK,Email Reminder,12187,12187,0,Recovered,Not Sent,-3
+CUSTOMER_0067,LOW,No Intervention,14221,14221,0,Recovered,Not Sent,-1
+CUSTOMER_0068,CRITICAL,Manual Follow-up,4832,2144,2688,Partially Recovered,Not Sent,-9
+CUSTOMER_0069,LOW,No Intervention,6709,6709,0,Recovered,Not Sent,-10
+CUSTOMER_0070,LOW,No Intervention,2984,1526,1458,Partially Recovered,Not Sent,-9
+CUSTOMER_0071,AT-RISK,Email Reminder,6910,6910,0,Recovered,Not Sent,-8
+CUSTOMER_0072,LOW,No Intervention,7082,7082,0,Recovered,Not Sent,-6
+CUSTOMER_0073,LOW,No Intervention,9573,9573,0,Recovered,Not Sent,-2
+CUSTOMER_0074,LOW,No Intervention,19498,19498,0,Recovered,Not Sent,-6
+CUSTOMER_0075,HIGH,Phone Call,1043,1043,0,Recovered,Not Sent,-7
+CUSTOMER_0076,LOW,No Intervention,3226,3226,0,Recovered,Not Sent,-3
+CUSTOMER_0077,AT-RISK,Email Reminder,5092,5092,0,Recovered,Not Sent,-10
+CUSTOMER_0078,HIGH,Phone Call,6043,6043,0,Recovered,Not Sent,-10
+CUSTOMER_0079,LOW,No Intervention,4505,4505,0,Recovered,Not Sent,-1
+CUSTOMER_0080,LOW,No Intervention,22248,22248,0,Recovered,Not Sent,-8
+CUSTOMER_0081,LOW,No Intervention,10039,10039,0,Recovered,Not Sent,-5
+CUSTOMER_0082,LOW,No Intervention,11601,11601,0,Recovered,Not Sent,-1
+CUSTOMER_0083,AT-RISK,Email Reminder,3698,3698,0,Recovered,Not Sent,-10
+CUSTOMER_0084,LOW,No Intervention,5779,1853,3926,Partially Recovered,Not Sent,-9
+CUSTOMER_0085,LOW,No Intervention,7240,7240,0,Recovered,Not Sent,-6
+CUSTOMER_0086,LOW,No Intervention,9917,9917,0,Recovered,Not Sent,-3
+CUSTOMER_0087,LOW,No Intervention,6051,6051,0,Recovered,Not Sent,-8
+CUSTOMER_0088,LOW,No Intervention,12681,12681,0,Recovered,Not Sent,-7
+CUSTOMER_0089,CRITICAL,Manual Follow-up,24157,10271,13886,Partially Recovered,Not Sent,-3
+CUSTOMER_0090,LOW,No Intervention,5818,5818,0,Recovered,Not Sent,-10
+CUSTOMER_0091,LOW,No Intervention,2601,2601,0,Recovered,Not Sent,-6
+CUSTOMER_0092,LOW,No Intervention,6959,6959,0,Recovered,Not Sent,-9
+CUSTOMER_0093,HIGH,Phone Call,5332,5332,0,Recovered,Not Sent,-10
+CUSTOMER_0094,LOW,No Intervention,5842,5842,0,Recovered,Not Sent,-10
+CUSTOMER_0095,LOW,No Intervention,14064,14064,0,Recovered,Not Sent,-9
+CUSTOMER_0096,LOW,No Intervention,5427,5427,0,Recovered,Not Sent,-9
+CUSTOMER_0097,HIGH,Phone Call,4296,0,4296,Not Recovered,Not Sent,-2
+CUSTOMER_0098,AT-RISK,Email Reminder,13864,13864,0,Recovered,Not Sent,-6
+CUSTOMER_0099,AT-RISK,Email Reminder,22041,22041,0,Recovered,Not Sent,-6
+CUSTOMER_0100,LOW,No Intervention,7764,7764,0,Recovered,Not Sent,-8
+CUSTOMER_0101,LOW,No Intervention,25688,25688,0,Recovered,Not Sent,-8
+CUSTOMER_0102,HIGH,Phone Call,6015,0,6015,Not Recovered,Not Sent,-8
+CUSTOMER_0103,LOW,No Intervention,4272,4272,0,Recovered,Not Sent,-3
+CUSTOMER_0104,LOW,No Intervention,1393,1393,0,Recovered,Not Sent,-4
+CUSTOMER_0105,LOW,No Intervention,4647,4647,0,Recovered,Not Sent,-10
+CUSTOMER_0106,LOW,No Intervention,7924,7924,0,Recovered,Not Sent,-6
+CUSTOMER_0107,LOW,No Intervention,1082,1082,0,Recovered,Not Sent,-8
+CUSTOMER_0108,LOW,No Intervention,12599,12599,0,Recovered,Not Sent,-2
+CUSTOMER_0109,AT-RISK,Email Reminder,7946,7946,0,Recovered,Not Sent,-3
+CUSTOMER_0110,LOW,No Intervention,15667,15667,0,Recovered,Not Sent,-5
+CUSTOMER_0111,LOW,No Intervention,25470,25470,0,Recovered,Not Sent,-1
+CUSTOMER_0112,HIGH,Phone Call,47645,10473,37172,Partially Recovered,Not Sent,-4
+CUSTOMER_0113,LOW,No Intervention,31111,31111,0,Recovered,Not Sent,-5
+CUSTOMER_0114,AT-RISK,Email Reminder,9998,9998,0,Recovered,Not Sent,-1
+CUSTOMER_0115,HIGH,Phone Call,5574,5574,0,Recovered,Not Sent,-6
+CUSTOMER_0116,AT-RISK,Email Reminder,8658,8658,0,Recovered,Not Sent,-5
+CUSTOMER_0117,LOW,No Intervention,8690,8690,0,Recovered,Not Sent,-10
+CUSTOMER_0118,AT-RISK,Email Reminder,15076,15076,0,Recovered,Not Sent,-5
+CUSTOMER_0119,HIGH,Phone Call,12845,12845,0,Recovered,Not Sent,-6
+CUSTOMER_0120,LOW,No Intervention,18106,18106,0,Recovered,Not Sent,-3
+CUSTOMER_0121,LOW,No Intervention,5033,5033,0,Recovered,Not Sent,-5
+CUSTOMER_0122,CRITICAL,Manual Follow-up,10300,6052,4248,Partially Recovered,Not Sent,-8
+CUSTOMER_0123,LOW,No Intervention,13147,13147,0,Recovered,Not Sent,-9
+CUSTOMER_0124,LOW,No Intervention,2804,2804,0,Recovered,Not Sent,-6
+CUSTOMER_0125,AT-RISK,Email Reminder,24999,24999,0,Recovered,Not Sent,-8
+CUSTOMER_0126,HIGH,Phone Call,6390,6390,0,Recovered,Not Sent,-9
+CUSTOMER_0127,LOW,No Intervention,19921,19921,0,Recovered,Not Sent,-10
+CUSTOMER_0128,LOW,No Intervention,5903,5903,0,Recovered,Not Sent,-2
+CUSTOMER_0129,LOW,No Intervention,11460,11460,0,Recovered,Not Sent,-8
+CUSTOMER_0130,CRITICAL,Manual Follow-up,16534,0,16534,Not Recovered,Not Sent,-10
+CUSTOMER_0131,LOW,No Intervention,5672,5672,0,Recovered,Not Sent,-9
+CUSTOMER_0132,LOW,No Intervention,13091,13091,0,Recovered,Not Sent,-4
+CUSTOMER_0133,CRITICAL,Manual Follow-up,3829,0,3829,Not Recovered,Not Sent,-7
+CUSTOMER_0134,LOW,No Intervention,5412,5412,0,Recovered,Not Sent,-6
+CUSTOMER_0135,LOW,No Intervention,9720,9720,0,Recovered,Not Sent,-2
+CUSTOMER_0136,AT-RISK,Email Reminder,14959,7193,7766,Partially Recovered,Not Sent,-10
+CUSTOMER_0137,AT-RISK,Email Reminder,11368,11368,0,Recovered,Not Sent,-8
+CUSTOMER_0138,AT-RISK,Email Reminder,5445,5445,0,Recovered,Not Sent,-7
+CUSTOMER_0139,CRITICAL,Manual Follow-up,6750,6750,0,Recovered,Not Sent,-5
+CUSTOMER_0140,HIGH,Phone Call,14401,14401,0,Recovered,Not Sent,-4
+CUSTOMER_0141,LOW,No Intervention,24399,24399,0,Recovered,Not Sent,-1
+CUSTOMER_0142,LOW,No Intervention,3638,3638,0,Recovered,Not Sent,-8
+CUSTOMER_0143,LOW,No Intervention,17697,17697,0,Recovered,Not Sent,-5
+CUSTOMER_0144,LOW,No Intervention,3689,3689,0,Recovered,Not Sent,-7
+CUSTOMER_0145,AT-RISK,Email Reminder,10050,10050,0,Recovered,Not Sent,-4
+CUSTOMER_0146,LOW,No Intervention,14937,14937,0,Recovered,Not Sent,-6
+CUSTOMER_0147,LOW,No Intervention,8216,8216,0,Recovered,Not Sent,-5
+CUSTOMER_0148,LOW,No Intervention,13759,13759,0,Recovered,Not Sent,-3
+CUSTOMER_0149,LOW,No Intervention,7296,7296,0,Recovered,Not Sent,-5
+CUSTOMER_0150,AT-RISK,Email Reminder,6220,0,6220,Not Recovered,Not Sent,-1
+CUSTOMER_0151,AT-RISK,Email Reminder,12350,12350,0,Recovered,Not Sent,-8
+CUSTOMER_0152,LOW,No Intervention,7345,7345,0,Recovered,Not Sent,-7
+CUSTOMER_0153,LOW,No Intervention,10842,10842,0,Recovered,Not Sent,-3
+CUSTOMER_0154,LOW,No Intervention,2208,2208,0,Recovered,Not Sent,-10
+CUSTOMER_0155,LOW,No Intervention,9792,9792,0,Recovered,Not Sent,-2
+CUSTOMER_0156,HIGH,Phone Call,6551,6551,0,Recovered,Not Sent,-6
+CUSTOMER_0157,LOW,No Intervention,21128,21128,0,Recovered,Not Sent,-9
+CUSTOMER_0158,LOW,No Intervention,8332,8332,0,Recovered,Not Sent,-1
+CUSTOMER_0159,LOW,No Intervention,7733,7733,0,Recovered,Not Sent,-9
+CUSTOMER_0160,LOW,No Intervention,10647,10647,0,Recovered,Not Sent,-4
+CUSTOMER_0161,LOW,No Intervention,9036,9036,0,Recovered,Not Sent,-10
+CUSTOMER_0162,HIGH,Phone Call,5087,1618,3469,Partially Recovered,Not Sent,-9
+CUSTOMER_0163,HIGH,Phone Call,4223,4223,0,Recovered,Not Sent,-10
+CUSTOMER_0164,LOW,No Intervention,7839,7839,0,Recovered,Not Sent,-3
+CUSTOMER_0165,HIGH,Phone Call,21618,0,21618,Not Recovered,Not Sent,-1
+CUSTOMER_0166,LOW,No Intervention,6423,6423,0,Recovered,Not Sent,-4
+CUSTOMER_0167,LOW,No Intervention,2391,2391,0,Recovered,Not Sent,-4
+CUSTOMER_0168,CRITICAL,Manual Follow-up,7061,0,7061,Not Recovered,Not Sent,-7
+CUSTOMER_0169,LOW,No Intervention,4284,4284,0,Recovered,Not Sent,-5
+CUSTOMER_0170,LOW,No Intervention,1310,1310,0,Recovered,Not Sent,-6
+CUSTOMER_0171,LOW,No Intervention,16716,16716,0,Recovered,Not Sent,-3
+CUSTOMER_0172,LOW,No Intervention,5959,5959,0,Recovered,Not Sent,-2
+CUSTOMER_0173,HIGH,Phone Call,7880,3050,4830,Partially Recovered,Not Sent,-3
+CUSTOMER_0174,AT-RISK,Email Reminder,7061,7061,0,Recovered,Not Sent,-5
+CUSTOMER_0175,AT-RISK,Email Reminder,8489,8489,0,Recovered,Not Sent,-7
+CUSTOMER_0176,LOW,No Intervention,6362,6362,0,Recovered,Not Sent,-6
+CUSTOMER_0177,LOW,No Intervention,14837,14837,0,Recovered,Not Sent,-2
+CUSTOMER_0178,HIGH,Phone Call,10865,10865,0,Recovered,Not Sent,-10
+CUSTOMER_0179,LOW,No Intervention,1326,1326,0,Recovered,Not Sent,-5
+CUSTOMER_0180,LOW,No Intervention,5961,5961,0,Recovered,Not Sent,-5
+CUSTOMER_0181,AT-RISK,Email Reminder,20193,20193,0,Recovered,Not Sent,-9
+CUSTOMER_0182,AT-RISK,Email Reminder,15618,15618,0,Recovered,Not Sent,-5
+CUSTOMER_0183,LOW,No Intervention,16344,16344,0,Recovered,Not Sent,-2
+CUSTOMER_0184,AT-RISK,Email Reminder,8519,2172,6347,Partially Recovered,Not Sent,-4
+CUSTOMER_0185,AT-RISK,Email Reminder,17886,0,17886,Pending,Not Sent,-4
+CUSTOMER_0186,LOW,No Intervention,2387,2387,0,Recovered,Not Sent,-7
+CUSTOMER_0187,LOW,No Intervention,8842,8842,0,Recovered,Not Sent,-3
+CUSTOMER_0188,LOW,No Intervention,5475,5475,0,Recovered,Not Sent,-6
+CUSTOMER_0189,AT-RISK,Email Reminder,5634,5634,0,Recovered,Not Sent,-8
+CUSTOMER_0190,HIGH,Phone Call,18192,0,18192,Pending,Not Sent,-9
+CUSTOMER_0191,LOW,No Intervention,4935,4935,0,Recovered,Not Sent,-8
+CUSTOMER_0192,LOW,No Intervention,6595,6595,0,Recovered,Not Sent,-1
+CUSTOMER_0193,LOW,No Intervention,22557,22557,0,Recovered,Not Sent,-8
+CUSTOMER_0194,CRITICAL,Manual Follow-up,6191,6191,0,Recovered,Not Sent,-3
+CUSTOMER_0195,LOW,No Intervention,4861,4861,0,Recovered,Not Sent,-1
+CUSTOMER_0196,LOW,No Intervention,6469,6469,0,Recovered,Not Sent,-9
+CUSTOMER_0197,AT-RISK,Email Reminder,29533,0,29533,Pending,Not Sent,-2
+CUSTOMER_0198,LOW,No Intervention,6776,6776,0,Recovered,Not Sent,-6
+CUSTOMER_0199,AT-RISK,Email Reminder,8384,8384,0,Recovered,Not Sent,-4
+CUSTOMER_0200,LOW,No Intervention,30273,30273,0,Recovered,Not Sent,-6
+CUSTOMER_0201,HIGH,Phone Call,7209,7209,0,Recovered,Not Sent,-7
+CUSTOMER_0202,AT-RISK,Email Reminder,7391,7391,0,Recovered,Not Sent,-7
+CUSTOMER_0203,LOW,No Intervention,940,940,0,Recovered,Not Sent,-6
+CUSTOMER_0204,LOW,No Intervention,6594,6594,0,Recovered,Not Sent,-3
+CUSTOMER_0205,LOW,No Intervention,5558,5558,0,Recovered,Not Sent,-1
+CUSTOMER_0206,AT-RISK,Email Reminder,4144,4144,0,Recovered,Not Sent,-3
+CUSTOMER_0207,LOW,No Intervention,3258,3258,0,Recovered,Not Sent,-2
+CUSTOMER_0208,HIGH,Phone Call,5844,0,5844,Not Recovered,Not Sent,-4
+CUSTOMER_0209,LOW,No Intervention,2124,2124,0,Recovered,Not Sent,-8
+CUSTOMER_0210,LOW,No Intervention,5344,2356,2988,Partially Recovered,Not Sent,-6
+CUSTOMER_0211,HIGH,Phone Call,42252,17404,24848,Partially Recovered,Not Sent,-5
+CUSTOMER_0212,AT-RISK,Email Reminder,3866,3866,0,Recovered,Not Sent,-7
+CUSTOMER_0213,LOW,No Intervention,5744,5744,0,Recovered,Not Sent,-5
+CUSTOMER_0214,AT-RISK,Email Reminder,7639,7639,0,Recovered,Not Sent,-10
+CUSTOMER_0215,HIGH,Phone Call,1278,1278,0,Recovered,Not Sent,-2
+CUSTOMER_0216,LOW,No Intervention,13423,13423,0,Recovered,Not Sent,-5
+CUSTOMER_0217,LOW,No Intervention,6388,1554,4834,Partially Recovered,Not Sent,-6
+CUSTOMER_0218,LOW,No Intervention,2494,2494,0,Recovered,Not Sent,-10
+CUSTOMER_0219,LOW,No Intervention,19452,19452,0,Recovered,Not Sent,-9
+CUSTOMER_0220,AT-RISK,Email Reminder,3852,3852,0,Recovered,Not Sent,-4
+CUSTOMER_0221,LOW,No Intervention,5951,5951,0,Recovered,Not Sent,-4
+CUSTOMER_0222,HIGH,Phone Call,18024,11648,6376,Partially Recovered,Not Sent,-2
+CUSTOMER_0223,CRITICAL,Manual Follow-up,12623,12623,0,Recovered,Not Sent,-3
+CUSTOMER_0224,AT-RISK,Email Reminder,7935,7935,0,Recovered,Not Sent,-7
+CUSTOMER_0225,CRITICAL,Manual Follow-up,8932,0,8932,Not Recovered,Not Sent,-1
+CUSTOMER_0226,HIGH,Phone Call,5073,5073,0,Recovered,Not Sent,-5
+CUSTOMER_0227,AT-RISK,Email Reminder,1139,1139,0,Recovered,Not Sent,-9
+CUSTOMER_0228,LOW,No Intervention,3522,2344,1178,Partially Recovered,Not Sent,-8
+CUSTOMER_0229,LOW,No Intervention,4511,4511,0,Recovered,Not Sent,-3
+CUSTOMER_0230,HIGH,Phone Call,4449,1696,2753,Partially Recovered,Not Sent,-4
+CUSTOMER_0231,LOW,No Intervention,8479,8479,0,Recovered,Not Sent,-5
+CUSTOMER_0232,HIGH,Phone Call,10419,0,10419,Not Recovered,Not Sent,-7
+CUSTOMER_0233,AT-RISK,Email Reminder,6628,2054,4574,Partially Recovered,Not Sent,-10
+CUSTOMER_0234,LOW,No Intervention,10961,10961,0,Recovered,Not Sent,-3
+CUSTOMER_0235,LOW,No Intervention,20339,20339,0,Recovered,Not Sent,-6
+CUSTOMER_0236,LOW,No Intervention,14890,14890,0,Recovered,Not Sent,-8
+CUSTOMER_0237,LOW,No Intervention,6574,6574,0,Recovered,Not Sent,-4
+CUSTOMER_0238,AT-RISK,Email Reminder,3517,3517,0,Recovered,Not Sent,-4
+CUSTOMER_0239,LOW,No Intervention,4479,4479,0,Recovered,Not Sent,-3
+CUSTOMER_0240,LOW,No Intervention,16654,16654,0,Recovered,Not Sent,-2
+CUSTOMER_0241,AT-RISK,Email Reminder,5856,5856,0,Recovered,Not Sent,-3
+CUSTOMER_0242,LOW,No Intervention,5888,5888,0,Recovered,Not Sent,-7
+CUSTOMER_0243,AT-RISK,Email Reminder,15990,15990,0,Recovered,Not Sent,-10
+CUSTOMER_0244,AT-RISK,Email Reminder,5218,5218,0,Recovered,Not Sent,-10
+CUSTOMER_0245,LOW,No Intervention,9625,9625,0,Recovered,Not Sent,-3
+CUSTOMER_0246,LOW,No Intervention,4782,4782,0,Recovered,Not Sent,-5
+CUSTOMER_0247,AT-RISK,Email Reminder,30158,13868,16290,Partially Recovered,Not Sent,-5
+CUSTOMER_0248,CRITICAL,Manual Follow-up,21063,21063,0,Recovered,Not Sent,-6
+CUSTOMER_0249,LOW,No Intervention,8432,8432,0,Recovered,Not Sent,-2
+CUSTOMER_0250,HIGH,Phone Call,2375,2375,0,Recovered,Not Sent,-10
+CUSTOMER_0251,LOW,No Intervention,8292,8292,0,Recovered,Not Sent,-7
+CUSTOMER_0252,AT-RISK,Email Reminder,7365,7365,0,Recovered,Not Sent,-9
+CUSTOMER_0253,LOW,No Intervention,6524,6524,0,Recovered,Not Sent,-3
+CUSTOMER_0254,LOW,No Intervention,4623,4623,0,Recovered,Not Sent,-7
+CUSTOMER_0255,HIGH,Phone Call,3885,0,3885,Pending,Not Sent,-6
+CUSTOMER_0256,HIGH,Phone Call,6436,0,6436,Not Recovered,Not Sent,-3
+CUSTOMER_0257,LOW,No Intervention,1906,1906,0,Recovered,Not Sent,-3
+CUSTOMER_0258,LOW,No Intervention,3631,3631,0,Recovered,Not Sent,-1
+CUSTOMER_0259,LOW,No Intervention,8053,8053,0,Recovered,Not Sent,-8
+CUSTOMER_0260,LOW,No Intervention,7387,7387,0,Recovered,Not Sent,-6
+CUSTOMER_0261,LOW,No Intervention,21463,21463,0,Recovered,Not Sent,-5
+CUSTOMER_0262,CRITICAL,Manual Follow-up,38072,0,38072,Pending,Not Sent,-7
+CUSTOMER_0263,CRITICAL,Manual Follow-up,19993,6719,13274,Partially Recovered,Not Sent,-2
+CUSTOMER_0264,LOW,No Intervention,4089,4089,0,Recovered,Not Sent,-8
+CUSTOMER_0265,HIGH,Phone Call,2629,1604,1025,Partially Recovered,Not Sent,-5
+CUSTOMER_0266,LOW,No Intervention,1146,1146,0,Recovered,Not Sent,-1
+CUSTOMER_0267,LOW,No Intervention,8923,8923,0,Recovered,Not Sent,-9
+CUSTOMER_0268,CRITICAL,Manual Follow-up,8747,4505,4242,Partially Recovered,Not Sent,-6
+CUSTOMER_0269,LOW,No Intervention,2114,2114,0,Recovered,Not Sent,-8
+CUSTOMER_0270,LOW,No Intervention,6053,6053,0,Recovered,Not Sent,-4
+CUSTOMER_0271,AT-RISK,Email Reminder,14537,14537,0,Recovered,Not Sent,-9
+CUSTOMER_0272,LOW,No Intervention,3440,3440,0,Recovered,Not Sent,-9
+CUSTOMER_0273,AT-RISK,Email Reminder,2329,2329,0,Recovered,Not Sent,-4
+CUSTOMER_0274,LOW,No Intervention,40169,40169,0,Recovered,Not Sent,-4
+CUSTOMER_0275,LOW,No Intervention,23775,23775,0,Recovered,Not Sent,-4
+CUSTOMER_0276,CRITICAL,Manual Follow-up,34095,34095,0,Recovered,Not Sent,-5
+CUSTOMER_0277,AT-RISK,Email Reminder,7103,3689,3414,Partially Recovered,Not Sent,-8
+CUSTOMER_0278,AT-RISK,Email Reminder,18791,7726,11065,Partially Recovered,Not Sent,-3
+CUSTOMER_0279,LOW,No Intervention,3578,3578,0,Recovered,Not Sent,-2
+CUSTOMER_0280,LOW,No Intervention,12854,12854,0,Recovered,Not Sent,-10
+CUSTOMER_0281,LOW,No Intervention,925,925,0,Recovered,Not Sent,-3
+CUSTOMER_0282,LOW,No Intervention,3909,3909,0,Recovered,Not Sent,-7
+CUSTOMER_0283,LOW,No Intervention,6161,6161,0,Recovered,Not Sent,-8
+CUSTOMER_0284,LOW,No Intervention,3477,3477,0,Recovered,Not Sent,-1
+CUSTOMER_0285,LOW,No Intervention,22098,22098,0,Recovered,Not Sent,-5
+CUSTOMER_0286,LOW,No Intervention,5116,5116,0,Recovered,Not Sent,-8
+CUSTOMER_0287,LOW,No Intervention,18198,18198,0,Recovered,Not Sent,-7
+CUSTOMER_0288,LOW,No Intervention,7041,7041,0,Recovered,Not Sent,-5
+CUSTOMER_0289,LOW,No Intervention,9882,9882,0,Recovered,Not Sent,-1
+CUSTOMER_0290,LOW,No Intervention,6381,6381,0,Recovered,Not Sent,-10
+CUSTOMER_0291,LOW,No Intervention,22351,22351,0,Recovered,Not Sent,-5
+CUSTOMER_0292,LOW,No Intervention,16395,16395,0,Recovered,Not Sent,-7
+CUSTOMER_0293,AT-RISK,Email Reminder,6346,2527,3819,Partially Recovered,Not Sent,-9
+CUSTOMER_0294,LOW,No Intervention,8380,8380,0,Recovered,Not Sent,-8
+CUSTOMER_0295,LOW,No Intervention,7729,7729,0,Recovered,Not Sent,-1
+CUSTOMER_0296,AT-RISK,Email Reminder,1877,1877,0,Recovered,Not Sent,-6
+CUSTOMER_0297,AT-RISK,Email Reminder,47630,47630,0,Recovered,Not Sent,-6
+CUSTOMER_0298,LOW,No Intervention,6458,6458,0,Recovered,Not Sent,-5
+CUSTOMER_0299,AT-RISK,Email Reminder,32402,0,32402,Not Recovered,Not Sent,-9
+CUSTOMER_0300,LOW,No Intervention,4427,4427,0,Recovered,Not Sent,-3
+CUSTOMER_0301,LOW,No Intervention,3054,3054,0,Recovered,Not Sent,-5
+CUSTOMER_0302,LOW,No Intervention,17831,17831,0,Recovered,Not Sent,-6
+CUSTOMER_0303,LOW,No Intervention,7374,7374,0,Recovered,Not Sent,-1
+CUSTOMER_0304,LOW,No Intervention,2105,2105,0,Recovered,Not Sent,-8
+CUSTOMER_0305,HIGH,Phone Call,5104,5104,0,Recovered,Not Sent,-10
+CUSTOMER_0306,AT-RISK,Email Reminder,6079,6079,0,Recovered,Not Sent,-3
+CUSTOMER_0307,LOW,No Intervention,10393,10393,0,Recovered,Not Sent,-1
+CUSTOMER_0308,LOW,No Intervention,2220,2220,0,Recovered,Not Sent,-6
+CUSTOMER_0309,AT-RISK,Email Reminder,1842,1842,0,Recovered,Not Sent,-9
+CUSTOMER_0310,LOW,No Intervention,5846,5846,0,Recovered,Not Sent,-1
+CUSTOMER_0311,LOW,No Intervention,8995,8995,0,Recovered,Not Sent,-2
+CUSTOMER_0312,LOW,No Intervention,3103,3103,0,Recovered,Not Sent,-10
+CUSTOMER_0313,LOW,No Intervention,5032,5032,0,Recovered,Not Sent,-10
+CUSTOMER_0314,AT-RISK,Email Reminder,12585,4560,8025,Partially Recovered,Not Sent,-7
+CUSTOMER_0315,AT-RISK,Email Reminder,10044,2553,7491,Partially Recovered,Not Sent,-2
+CUSTOMER_0316,AT-RISK,Email Reminder,11315,11315,0,Recovered,Not Sent,-4
+CUSTOMER_0317,HIGH,Phone Call,3600,0,3600,Not Recovered,Not Sent,-9
+CUSTOMER_0318,CRITICAL,Manual Follow-up,9628,9628,0,Recovered,Not Sent,-4
+CUSTOMER_0319,LOW,No Intervention,3426,3426,0,Recovered,Not Sent,-1
+CUSTOMER_0320,LOW,No Intervention,2901,2901,0,Recovered,Not Sent,-6
+CUSTOMER_0321,HIGH,Phone Call,16006,16006,0,Recovered,Not Sent,-4
+CUSTOMER_0322,AT-RISK,Email Reminder,10431,10431,0,Recovered,Not Sent,-3
+CUSTOMER_0323,LOW,No Intervention,46374,46374,0,Recovered,Not Sent,-9
+CUSTOMER_0324,LOW,No Intervention,10542,10542,0,Recovered,Not Sent,-3
+CUSTOMER_0325,HIGH,Phone Call,5167,1951,3216,Partially Recovered,Not Sent,-5
+CUSTOMER_0326,CRITICAL,Manual Follow-up,16835,0,16835,Not Recovered,Not Sent,-1
+CUSTOMER_0327,LOW,No Intervention,8423,8423,0,Recovered,Not Sent,-2
+CUSTOMER_0328,AT-RISK,Email Reminder,12968,12968,0,Recovered,Not Sent,-9
+CUSTOMER_0329,CRITICAL,Manual Follow-up,15289,0,15289,Not Recovered,Not Sent,-1
+CUSTOMER_0330,AT-RISK,Email Reminder,8757,8757,0,Recovered,Not Sent,-7
+CUSTOMER_0331,AT-RISK,Email Reminder,30106,30106,0,Recovered,Not Sent,-8
+CUSTOMER_0332,CRITICAL,Manual Follow-up,26080,0,26080,Not Recovered,Not Sent,-4
+CUSTOMER_0333,LOW,No Intervention,3718,3718,0,Recovered,Not Sent,-4
+CUSTOMER_0334,AT-RISK,Email Reminder,7126,7126,0,Recovered,Not Sent,-5
+CUSTOMER_0335,LOW,No Intervention,8782,8782,0,Recovered,Not Sent,-9
+CUSTOMER_0336,AT-RISK,Email Reminder,8234,8234,0,Recovered,Not Sent,-3
+CUSTOMER_0337,LOW,No Intervention,4835,4835,0,Recovered,Not Sent,-8
+CUSTOMER_0338,HIGH,Phone Call,8023,0,8023,Not Recovered,Not Sent,-4
+CUSTOMER_0339,LOW,No Intervention,9084,9084,0,Recovered,Not Sent,-1
+CUSTOMER_0340,CRITICAL,Manual Follow-up,5405,5405,0,Recovered,Not Sent,-3
+CUSTOMER_0341,LOW,No Intervention,9474,9474,0,Recovered,Not Sent,-2
+CUSTOMER_0342,AT-RISK,Email Reminder,10660,10660,0,Recovered,Not Sent,-2
+CUSTOMER_0343,LOW,No Intervention,3250,3250,0,Recovered,Not Sent,-1
+CUSTOMER_0344,AT-RISK,Email Reminder,22091,0,22091,Pending,Not Sent,-1
+CUSTOMER_0345,LOW,No Intervention,4509,4509,0,Recovered,Not Sent,-9
+CUSTOMER_0346,HIGH,Phone Call,6066,0,6066,Pending,Not Sent,-10
+CUSTOMER_0347,HIGH,Phone Call,9353,2635,6718,Partially Recovered,Not Sent,-2
+CUSTOMER_0348,AT-RISK,Email Reminder,4729,4729,0,Recovered,Not Sent,-10
+CUSTOMER_0349,LOW,No Intervention,8003,8003,0,Recovered,Not Sent,-3
+CUSTOMER_0350,LOW,No Intervention,1135,1135,0,Recovered,Not Sent,-6
+CUSTOMER_0351,AT-RISK,Email Reminder,3367,3367,0,Recovered,Not Sent,-5
+CUSTOMER_0352,CRITICAL,Manual Follow-up,38040,8018,30022,Partially Recovered,Not Sent,-7
+CUSTOMER_0353,LOW,No Intervention,7847,7847,0,Recovered,Not Sent,-4
+CUSTOMER_0354,LOW,No Intervention,18100,18100,0,Recovered,Not Sent,-9
+CUSTOMER_0355,LOW,No Intervention,9762,9762,0,Recovered,Not Sent,-8
+CUSTOMER_0356,LOW,No Intervention,4779,4779,0,Recovered,Not Sent,-10
+CUSTOMER_0357,HIGH,Phone Call,19596,19596,0,Recovered,Not Sent,-9
+CUSTOMER_0358,AT-RISK,Email Reminder,3494,3494,0,Recovered,Not Sent,-5
+CUSTOMER_0359,LOW,No Intervention,8098,8098,0,Recovered,Not Sent,-9
+CUSTOMER_0360,AT-RISK,Email Reminder,14756,0,14756,Not Recovered,Not Sent,-7
+CUSTOMER_0361,LOW,No Intervention,3457,3457,0,Recovered,Not Sent,-4
+CUSTOMER_0362,AT-RISK,Email Reminder,13012,13012,0,Recovered,Not Sent,-4
+CUSTOMER_0363,AT-RISK,Email Reminder,907,907,0,Recovered,Not Sent,-5
+CUSTOMER_0364,HIGH,Phone Call,12514,0,12514,Not Recovered,Not Sent,-6
+CUSTOMER_0365,LOW,No Intervention,3346,3346,0,Recovered,Not Sent,-6
+CUSTOMER_0366,LOW,No Intervention,918,918,0,Recovered,Not Sent,-2
+CUSTOMER_0367,AT-RISK,Email Reminder,8553,8553,0,Recovered,Not Sent,-2
+CUSTOMER_0368,LOW,No Intervention,7042,7042,0,Recovered,Not Sent,-1
+CUSTOMER_0369,HIGH,Phone Call,4720,4720,0,Recovered,Not Sent,-9
+CUSTOMER_0370,AT-RISK,Email Reminder,15831,15831,0,Recovered,Not Sent,-4
+CUSTOMER_0371,AT-RISK,Email Reminder,10470,10470,0,Recovered,Not Sent,-1
+CUSTOMER_0372,AT-RISK,Email Reminder,10532,5131,5401,Partially Recovered,Not Sent,-1
+CUSTOMER_0373,LOW,No Intervention,4041,4041,0,Recovered,Not Sent,-4
+CUSTOMER_0374,LOW,No Intervention,6821,6821,0,Recovered,Not Sent,-6
+CUSTOMER_0375,LOW,No Intervention,8135,8135,0,Recovered,Not Sent,-6
+CUSTOMER_0376,LOW,No Intervention,924,924,0,Recovered,Not Sent,-5
+CUSTOMER_0377,LOW,No Intervention,2552,2552,0,Recovered,Not Sent,-6
+CUSTOMER_0378,AT-RISK,Email Reminder,3631,3631,0,Recovered,Not Sent,-9
+CUSTOMER_0379,LOW,No Intervention,18437,18437,0,Recovered,Not Sent,-6
+CUSTOMER_0380,LOW,No Intervention,10469,10469,0,Recovered,Not Sent,-8
+CUSTOMER_0381,AT-RISK,Email Reminder,8873,8873,0,Recovered,Not Sent,-3
+CUSTOMER_0382,LOW,No Intervention,9758,9758,0,Recovered,Not Sent,-2
+CUSTOMER_0383,LOW,No Intervention,23470,23470,0,Recovered,Not Sent,-4
+CUSTOMER_0384,HIGH,Phone Call,10480,0,10480,Not Recovered,Not Sent,-4
+CUSTOMER_0385,LOW,No Intervention,3684,3684,0,Recovered,Not Sent,-6
+CUSTOMER_0386,AT-RISK,Email Reminder,7748,7748,0,Recovered,Not Sent,-3
+CUSTOMER_0387,AT-RISK,Email Reminder,4923,4923,0,Recovered,Not Sent,-7
+CUSTOMER_0388,LOW,No Intervention,7757,7757,0,Recovered,Not Sent,-6
+CUSTOMER_0389,LOW,No Intervention,10371,10371,0,Recovered,Not Sent,-8
+CUSTOMER_0390,LOW,No Intervention,10816,10816,0,Recovered,Not Sent,-2
+CUSTOMER_0391,LOW,No Intervention,8829,8829,0,Recovered,Not Sent,-5
+CUSTOMER_0392,HIGH,Phone Call,6891,6891,0,Recovered,Not Sent,-10
+CUSTOMER_0393,AT-RISK,Email Reminder,3179,3179,0,Recovered,Not Sent,-7
+CUSTOMER_0394,HIGH,Phone Call,9583,9583,0,Recovered,Not Sent,-5
+CUSTOMER_0395,LOW,No Intervention,17126,17126,0,Recovered,Not Sent,-10
+CUSTOMER_0396,LOW,No Intervention,5499,5499,0,Recovered,Not Sent,-9
+CUSTOMER_0397,LOW,No Intervention,7506,7506,0,Recovered,Not Sent,-2
+CUSTOMER_0398,HIGH,Phone Call,11822,11822,0,Recovered,Not Sent,-5
+CUSTOMER_0399,CRITICAL,Manual Follow-up,9066,9066,0,Recovered,Not Sent,-3
+CUSTOMER_0400,AT-RISK,Email Reminder,10723,5557,5166,Partially Recovered,Not Sent,-4
+CUSTOMER_0401,CRITICAL,Manual Follow-up,8522,3115,5407,Partially Recovered,Not Sent,-1
+CUSTOMER_0402,LOW,No Intervention,6139,6139,0,Recovered,Not Sent,-3
+CUSTOMER_0403,AT-RISK,Email Reminder,912,912,0,Recovered,Not Sent,-4
+CUSTOMER_0404,AT-RISK,Email Reminder,11189,11189,0,Recovered,Not Sent,-8
+CUSTOMER_0405,LOW,No Intervention,5058,5058,0,Recovered,Not Sent,-6
+CUSTOMER_0406,LOW,No Intervention,4851,4851,0,Recovered,Not Sent,-1
+CUSTOMER_0407,LOW,No Intervention,20265,20265,0,Recovered,Not Sent,-9
+CUSTOMER_0408,HIGH,Phone Call,13023,13023,0,Recovered,Not Sent,-7
+CUSTOMER_0409,LOW,No Intervention,10249,10249,0,Recovered,Not Sent,-5
+CUSTOMER_0410,LOW,No Intervention,11697,11697,0,Recovered,Not Sent,-1
+CUSTOMER_0411,LOW,No Intervention,11425,11425,0,Recovered,Not Sent,-1
+CUSTOMER_0412,LOW,No Intervention,7770,7770,0,Recovered,Not Sent,-3
+CUSTOMER_0413,AT-RISK,Email Reminder,2573,2573,0,Recovered,Not Sent,-7
+CUSTOMER_0414,LOW,No Intervention,15857,15857,0,Recovered,Not Sent,-1
+CUSTOMER_0415,AT-RISK,Email Reminder,5446,5446,0,Recovered,Not Sent,-1
+CUSTOMER_0416,LOW,No Intervention,3290,3290,0,Recovered,Not Sent,-4
+CUSTOMER_0417,LOW,No Intervention,11028,11028,0,Recovered,Not Sent,-3
+CUSTOMER_0418,AT-RISK,Email Reminder,4614,4614,0,Recovered,Not Sent,-10
+CUSTOMER_0419,LOW,No Intervention,28983,28983,0,Recovered,Not Sent,-7
+CUSTOMER_0420,LOW,No Intervention,8374,8374,0,Recovered,Not Sent,-3
+CUSTOMER_0421,AT-RISK,Email Reminder,1777,1777,0,Recovered,Not Sent,-2
+CUSTOMER_0422,LOW,No Intervention,6917,6917,0,Recovered,Not Sent,-3
+CUSTOMER_0423,HIGH,Phone Call,33056,33056,0,Recovered,Not Sent,-4
+CUSTOMER_0424,HIGH,Phone Call,15681,0,15681,Pending,Not Sent,-1
+CUSTOMER_0425,HIGH,Phone Call,12368,0,12368,Not Recovered,Not Sent,-9
+CUSTOMER_0426,HIGH,Phone Call,6716,6716,0,Recovered,Not Sent,-1
+CUSTOMER_0427,AT-RISK,Email Reminder,18228,18228,0,Recovered,Not Sent,-9
+CUSTOMER_0428,CRITICAL,Manual Follow-up,4689,0,4689,Pending,Not Sent,-4
+CUSTOMER_0429,LOW,No Intervention,10458,10458,0,Recovered,Not Sent,-4
+CUSTOMER_0430,LOW,No Intervention,7079,7079,0,Recovered,Not Sent,-7
+CUSTOMER_0431,AT-RISK,Email Reminder,10353,10353,0,Recovered,Not Sent,-10
+CUSTOMER_0432,LOW,No Intervention,4404,4404,0,Recovered,Not Sent,-10
+CUSTOMER_0433,HIGH,Phone Call,3004,3004,0,Recovered,Not Sent,-1
+CUSTOMER_0434,AT-RISK,Email Reminder,1169,362,807,Partially Recovered,Not Sent,-9
+CUSTOMER_0435,HIGH,Phone Call,39610,0,39610,Pending,Not Sent,-8
+CUSTOMER_0436,LOW,No Intervention,5238,5238,0,Recovered,Not Sent,-7
+CUSTOMER_0437,LOW,No Intervention,13001,13001,0,Recovered,Not Sent,-5
+CUSTOMER_0438,LOW,No Intervention,5371,5371,0,Recovered,Not Sent,-2
+CUSTOMER_0439,LOW,No Intervention,9660,9660,0,Recovered,Not Sent,-5
+CUSTOMER_0440,LOW,No Intervention,13444,13444,0,Recovered,Not Sent,-1
+CUSTOMER_0441,CRITICAL,Manual Follow-up,7225,2506,4719,Partially Recovered,Not Sent,-10
+CUSTOMER_0442,LOW,No Intervention,11479,11479,0,Recovered,Not Sent,-2
+CUSTOMER_0443,LOW,No Intervention,4833,4833,0,Recovered,Not Sent,-10
+CUSTOMER_0444,LOW,No Intervention,4070,4070,0,Recovered,Not Sent,-9
+CUSTOMER_0445,AT-RISK,Email Reminder,13260,0,13260,Pending,Not Sent,-3
+CUSTOMER_0446,LOW,No Intervention,5409,5409,0,Recovered,Not Sent,-5
+CUSTOMER_0447,LOW,No Intervention,6530,6530,0,Recovered,Not Sent,-9
+CUSTOMER_0448,LOW,No Intervention,9154,9154,0,Recovered,Not Sent,-9
+CUSTOMER_0449,HIGH,Phone Call,37494,37494,0,Recovered,Not Sent,-2
+CUSTOMER_0450,LOW,No Intervention,35524,35524,0,Recovered,Not Sent,-3
+CUSTOMER_0451,LOW,No Intervention,8281,8281,0,Recovered,Not Sent,-2
+CUSTOMER_0452,HIGH,Phone Call,12733,12733,0,Recovered,Not Sent,-7
+CUSTOMER_0453,AT-RISK,Email Reminder,28053,28053,0,Recovered,Not Sent,-4
+CUSTOMER_0454,LOW,No Intervention,8744,8744,0,Recovered,Not Sent,-6
+CUSTOMER_0455,LOW,No Intervention,19402,19402,0,Recovered,Not Sent,-4
+CUSTOMER_0456,LOW,No Intervention,3724,3724,0,Recovered,Not Sent,-6
+CUSTOMER_0457,LOW,No Intervention,16281,16281,0,Recovered,Not Sent,-2
+CUSTOMER_0458,LOW,No Intervention,5366,5366,0,Recovered,Not Sent,-5
+CUSTOMER_0459,LOW,No Intervention,3465,3465,0,Recovered,Not Sent,-9
+CUSTOMER_0460,LOW,No Intervention,13421,13421,0,Recovered,Not Sent,-6
+CUSTOMER_0461,HIGH,Phone Call,20573,0,20573,Not Recovered,Not Sent,-10
+CUSTOMER_0462,HIGH,Phone Call,10789,7198,3591,Partially Recovered,Not Sent,-10
+CUSTOMER_0463,AT-RISK,Email Reminder,25622,25622,0,Recovered,Not Sent,-10
+CUSTOMER_0464,HIGH,Phone Call,1685,0,1685,Pending,Not Sent,-10
+CUSTOMER_0465,CRITICAL,Manual Follow-up,33808,0,33808,Pending,Not Sent,-8
+CUSTOMER_0466,AT-RISK,Email Reminder,7277,2160,5117,Partially Recovered,Not Sent,-8
+CUSTOMER_0467,AT-RISK,Email Reminder,1001,1001,0,Recovered,Not Sent,-8
+CUSTOMER_0468,LOW,No Intervention,11058,11058,0,Recovered,Not Sent,-5
+CUSTOMER_0469,AT-RISK,Email Reminder,5490,5490,0,Recovered,Not Sent,-2
+CUSTOMER_0470,AT-RISK,Email Reminder,15092,0,15092,Pending,Not Sent,-2
+CUSTOMER_0471,LOW,No Intervention,6132,6132,0,Recovered,Not Sent,-4
+CUSTOMER_0472,LOW,No Intervention,2883,2883,0,Recovered,Not Sent,-1
+CUSTOMER_0473,AT-RISK,Email Reminder,7324,7324,0,Recovered,Not Sent,-7
+CUSTOMER_0474,AT-RISK,Email Reminder,6738,6738,0,Recovered,Not Sent,-1
+CUSTOMER_0475,LOW,No Intervention,11453,11453,0,Recovered,Not Sent,-5
+CUSTOMER_0476,HIGH,Phone Call,15121,0,15121,Not Recovered,Not Sent,-2
+CUSTOMER_0477,CRITICAL,Manual Follow-up,3875,0,3875,Pending,Not Sent,-8
+CUSTOMER_0478,LOW,No Intervention,23810,23810,0,Recovered,Not Sent,-7
+CUSTOMER_0479,LOW,No Intervention,15826,15826,0,Recovered,Not Sent,-1
+CUSTOMER_0480,AT-RISK,Email Reminder,31769,18942,12827,Partially Recovered,Not Sent,-4
+CUSTOMER_0481,LOW,No Intervention,10221,4554,5667,Partially Recovered,Not Sent,-3
+CUSTOMER_0482,AT-RISK,Email Reminder,7365,7365,0,Recovered,Not Sent,-6
+CUSTOMER_0483,AT-RISK,Email Reminder,3237,2192,1045,Partially Recovered,Not Sent,-3
+CUSTOMER_0484,AT-RISK,Email Reminder,10953,10953,0,Recovered,Not Sent,-2
+CUSTOMER_0485,HIGH,Phone Call,3044,0,3044,Pending,Not Sent,-10
+CUSTOMER_0486,LOW,No Intervention,6218,6218,0,Recovered,Not Sent,-2
+CUSTOMER_0487,LOW,No Intervention,1351,1351,0,Recovered,Not Sent,-10
+CUSTOMER_0488,LOW,No Intervention,7638,7638,0,Recovered,Not Sent,-10
+CUSTOMER_0489,AT-RISK,Email Reminder,12670,12670,0,Recovered,Not Sent,-10
+CUSTOMER_0490,HIGH,Phone Call,35925,35925,0,Recovered,Not Sent,-9
+CUSTOMER_0491,AT-RISK,Email Reminder,8012,8012,0,Recovered,Not Sent,-3
+CUSTOMER_0492,LOW,No Intervention,3069,3069,0,Recovered,Not Sent,-2
+CUSTOMER_0493,LOW,No Intervention,3847,3847,0,Recovered,Not Sent,-2
+CUSTOMER_0494,CRITICAL,Manual Follow-up,5962,5962,0,Recovered,Not Sent,-2
+CUSTOMER_0495,LOW,No Intervention,6545,6545,0,Recovered,Not Sent,-1
+CUSTOMER_0496,AT-RISK,Email Reminder,10253,3274,6979,Partially Recovered,Not Sent,-10
+CUSTOMER_0497,AT-RISK,Email Reminder,26873,10142,16731,Partially Recovered,Not Sent,-5
+CUSTOMER_0498,AT-RISK,Email Reminder,42672,42672,0,Recovered,Not Sent,-5
+CUSTOMER_0499,LOW,No Intervention,9150,9150,0,Recovered,Not Sent,-8
+CUSTOMER_0500,AT-RISK,Email Reminder,1115,483,632,Partially Recovered,Not Sent,-4
+CUSTOMER_0501,LOW,No Intervention,3134,3134,0,Recovered,Not Sent,-6
+CUSTOMER_0502,LOW,No Intervention,6698,6698,0,Recovered,Not Sent,-6
+CUSTOMER_0503,LOW,No Intervention,1072,1072,0,Recovered,Not Sent,-3
+CUSTOMER_0504,LOW,No Intervention,2293,2293,0,Recovered,Not Sent,-6
+CUSTOMER_0505,HIGH,Phone Call,4245,4245,0,Recovered,Not Sent,-4
+CUSTOMER_0506,AT-RISK,Email Reminder,13198,13198,0,Recovered,Not Sent,-4
+CUSTOMER_0507,LOW,No Intervention,5666,5666,0,Recovered,Not Sent,-5
+CUSTOMER_0508,AT-RISK,Email Reminder,6127,6127,0,Recovered,Not Sent,-7
+CUSTOMER_0509,LOW,No Intervention,13784,13784,0,Recovered,Not Sent,-6
+CUSTOMER_0510,AT-RISK,Email Reminder,11312,11312,0,Recovered,Not Sent,-6
+CUSTOMER_0511,LOW,No Intervention,4043,4043,0,Recovered,Not Sent,-2
+CUSTOMER_0512,CRITICAL,Manual Follow-up,32223,32223,0,Recovered,Not Sent,-10
+CUSTOMER_0513,LOW,No Intervention,12609,12609,0,Recovered,Not Sent,-10
+CUSTOMER_0514,LOW,No Intervention,7110,7110,0,Recovered,Not Sent,-8
+CUSTOMER_0515,AT-RISK,Email Reminder,6433,3855,2578,Partially Recovered,Not Sent,-5
+CUSTOMER_0516,LOW,No Intervention,6749,6749,0,Recovered,Not Sent,-4
+CUSTOMER_0517,LOW,No Intervention,2969,2969,0,Recovered,Not Sent,-1
+CUSTOMER_0518,AT-RISK,Email Reminder,15848,15848,0,Recovered,Not Sent,-6
+CUSTOMER_0519,LOW,No Intervention,6532,6532,0,Recovered,Not Sent,-10
+CUSTOMER_0520,LOW,No Intervention,1004,1004,0,Recovered,Not Sent,-1
+CUSTOMER_0521,HIGH,Phone Call,5889,0,5889,Pending,Not Sent,-1
+CUSTOMER_0522,AT-RISK,Email Reminder,6386,6386,0,Recovered,Not Sent,-8
+CUSTOMER_0523,LOW,No Intervention,9558,9558,0,Recovered,Not Sent,-7
+CUSTOMER_0524,HIGH,Phone Call,9367,9367,0,Recovered,Not Sent,-1
+CUSTOMER_0525,LOW,No Intervention,8654,8654,0,Recovered,Not Sent,-2
+CUSTOMER_0526,LOW,No Intervention,12977,12977,0,Recovered,Not Sent,-9
+CUSTOMER_0527,AT-RISK,Email Reminder,8627,4299,4328,Partially Recovered,Not Sent,-10
+CUSTOMER_0528,HIGH,Phone Call,35815,35815,0,Recovered,Not Sent,-7
+CUSTOMER_0529,HIGH,Phone Call,11767,11767,0,Recovered,Not Sent,-5
+CUSTOMER_0530,LOW,No Intervention,2343,1429,914,Partially Recovered,Not Sent,-2
+CUSTOMER_0531,LOW,No Intervention,47477,47477,0,Recovered,Not Sent,-8
+CUSTOMER_0532,LOW,No Intervention,4446,4446,0,Recovered,Not Sent,-3
+CUSTOMER_0533,LOW,No Intervention,6227,6227,0,Recovered,Not Sent,-3
+CUSTOMER_0534,HIGH,Phone Call,17337,5378,11959,Partially Recovered,Not Sent,-10
+CUSTOMER_0535,LOW,No Intervention,6678,6678,0,Recovered,Not Sent,-9
+CUSTOMER_0536,HIGH,Phone Call,3743,3743,0,Recovered,Not Sent,-4
+CUSTOMER_0537,AT-RISK,Email Reminder,1067,1067,0,Recovered,Not Sent,-5
+CUSTOMER_0538,AT-RISK,Email Reminder,12978,0,12978,Pending,Not Sent,-2
+CUSTOMER_0539,HIGH,Phone Call,21345,21345,0,Recovered,Not Sent,-7
+CUSTOMER_0540,LOW,No Intervention,8147,8147,0,Recovered,Not Sent,-3
+CUSTOMER_0541,LOW,No Intervention,8608,8608,0,Recovered,Not Sent,-9
+CUSTOMER_0542,HIGH,Phone Call,6750,4280,2470,Partially Recovered,Not Sent,-2
+CUSTOMER_0543,LOW,No Intervention,3092,3092,0,Recovered,Not Sent,-8
+CUSTOMER_0544,LOW,No Intervention,14558,7011,7547,Partially Recovered,Not Sent,-6
+CUSTOMER_0545,LOW,No Intervention,16175,16175,0,Recovered,Not Sent,-2
+CUSTOMER_0546,LOW,No Intervention,4059,4059,0,Recovered,Not Sent,-4
+CUSTOMER_0547,HIGH,Phone Call,15448,15448,0,Recovered,Not Sent,-3
+CUSTOMER_0548,AT-RISK,Email Reminder,13674,13674,0,Recovered,Not Sent,-3
+CUSTOMER_0549,AT-RISK,Email Reminder,3939,1038,2901,Partially Recovered,Not Sent,-2
+CUSTOMER_0550,AT-RISK,Email Reminder,8688,2805,5883,Partially Recovered,Not Sent,-5
+CUSTOMER_0551,AT-RISK,Email Reminder,12790,12790,0,Recovered,Not Sent,-3
+CUSTOMER_0552,LOW,No Intervention,25904,25904,0,Recovered,Not Sent,-5
+CUSTOMER_0553,AT-RISK,Email Reminder,6686,6686,0,Recovered,Not Sent,-4
+CUSTOMER_0554,LOW,No Intervention,8015,8015,0,Recovered,Not Sent,-7
+CUSTOMER_0555,LOW,No Intervention,4967,4967,0,Recovered,Not Sent,-8
+CUSTOMER_0556,HIGH,Phone Call,38646,38646,0,Recovered,Not Sent,-1
+CUSTOMER_0557,AT-RISK,Email Reminder,9489,9489,0,Recovered,Not Sent,-10
+CUSTOMER_0558,AT-RISK,Email Reminder,3093,3093,0,Recovered,Not Sent,-3
+CUSTOMER_0559,LOW,No Intervention,11312,11312,0,Recovered,Not Sent,-9
+CUSTOMER_0560,LOW,No Intervention,8135,8135,0,Recovered,Not Sent,-5
+CUSTOMER_0561,AT-RISK,Email Reminder,8465,8465,0,Recovered,Not Sent,-4
+CUSTOMER_0562,LOW,No Intervention,6155,6155,0,Recovered,Not Sent,-7
+CUSTOMER_0563,AT-RISK,Email Reminder,4838,4838,0,Recovered,Not Sent,-2
+CUSTOMER_0564,LOW,No Intervention,20207,20207,0,Recovered,Not Sent,-8
+CUSTOMER_0565,HIGH,Phone Call,2347,2347,0,Recovered,Not Sent,-9
+CUSTOMER_0566,CRITICAL,Manual Follow-up,5369,1384,3985,Partially Recovered,Not Sent,-9
+CUSTOMER_0567,CRITICAL,Manual Follow-up,6666,0,6666,Not Recovered,Not Sent,-10
+CUSTOMER_0568,LOW,No Intervention,12758,7803,4955,Partially Recovered,Not Sent,-5
+CUSTOMER_0569,LOW,No Intervention,1848,1848,0,Recovered,Not Sent,-1
+CUSTOMER_0570,LOW,No Intervention,6535,6535,0,Recovered,Not Sent,-5
+CUSTOMER_0571,LOW,No Intervention,5992,5992,0,Recovered,Not Sent,-10
+CUSTOMER_0572,AT-RISK,Email Reminder,8868,8868,0,Recovered,Not Sent,-9
+CUSTOMER_0573,HIGH,Phone Call,19366,0,19366,Not Recovered,Not Sent,-2
+CUSTOMER_0574,LOW,No Intervention,6957,6957,0,Recovered,Not Sent,-7
+CUSTOMER_0575,AT-RISK,Email Reminder,4029,0,4029,Pending,Not Sent,-2
+CUSTOMER_0576,LOW,No Intervention,5828,5828,0,Recovered,Not Sent,-6
+CUSTOMER_0577,LOW,No Intervention,2542,2542,0,Recovered,Not Sent,-8
+CUSTOMER_0578,HIGH,Phone Call,9806,9806,0,Recovered,Not Sent,-7
+CUSTOMER_0579,LOW,No Intervention,35949,35949,0,Recovered,Not Sent,-10
+CUSTOMER_0580,HIGH,Phone Call,4384,4384,0,Recovered,Not Sent,-1
+CUSTOMER_0581,LOW,No Intervention,4642,4642,0,Recovered,Not Sent,-5
+CUSTOMER_0582,AT-RISK,Email Reminder,10758,0,10758,Pending,Not Sent,-4
+CUSTOMER_0583,AT-RISK,Email Reminder,5951,5951,0,Recovered,Not Sent,-5
+CUSTOMER_0584,LOW,No Intervention,5060,5060,0,Recovered,Not Sent,-1
+CUSTOMER_0585,LOW,No Intervention,17146,17146,0,Recovered,Not Sent,-5
+CUSTOMER_0586,LOW,No Intervention,3008,3008,0,Recovered,Not Sent,-5
+CUSTOMER_0587,LOW,No Intervention,3647,3647,0,Recovered,Not Sent,-3
+CUSTOMER_0588,LOW,No Intervention,6920,6920,0,Recovered,Not Sent,-4
+CUSTOMER_0589,HIGH,Phone Call,22035,22035,0,Recovered,Not Sent,-7
+CUSTOMER_0590,HIGH,Phone Call,6138,6138,0,Recovered,Not Sent,-1
+CUSTOMER_0591,LOW,No Intervention,47230,47230,0,Recovered,Not Sent,-4
+CUSTOMER_0592,LOW,No Intervention,6582,6582,0,Recovered,Not Sent,-3
+CUSTOMER_0593,HIGH,Phone Call,10743,0,10743,Not Recovered,Not Sent,-8
+CUSTOMER_0594,AT-RISK,Email Reminder,4846,4846,0,Recovered,Not Sent,-2
+CUSTOMER_0595,LOW,No Intervention,8357,8357,0,Recovered,Not Sent,-10
+CUSTOMER_0596,AT-RISK,Email Reminder,7071,7071,0,Recovered,Not Sent,-8
+CUSTOMER_0597,LOW,No Intervention,19105,19105,0,Recovered,Not Sent,-8
+CUSTOMER_0598,AT-RISK,Email Reminder,12048,7766,4282,Partially Recovered,Not Sent,-5
+CUSTOMER_0599,CRITICAL,Manual Follow-up,24879,0,24879,Pending,Not Sent,-8
+CUSTOMER_0600,LOW,No Intervention,6585,6585,0,Recovered,Not Sent,-6
+CUSTOMER_0601,LOW,No Intervention,10735,10735,0,Recovered,Not Sent,-1
+CUSTOMER_0602,HIGH,Phone Call,13442,4623,8819,Partially Recovered,Not Sent,-10
+CUSTOMER_0603,LOW,No Intervention,1939,1939,0,Recovered,Not Sent,-3
+CUSTOMER_0604,AT-RISK,Email Reminder,1111,1111,0,Recovered,Not Sent,-7
+CUSTOMER_0605,AT-RISK,Email Reminder,8287,8287,0,Recovered,Not Sent,-6
+CUSTOMER_0606,LOW,No Intervention,7107,7107,0,Recovered,Not Sent,-2
+CUSTOMER_0607,AT-RISK,Email Reminder,6942,6942,0,Recovered,Not Sent,-1
+CUSTOMER_0608,LOW,No Intervention,7187,7187,0,Recovered,Not Sent,-9
+CUSTOMER_0609,AT-RISK,Email Reminder,5249,0,5249,Pending,Not Sent,-8
+CUSTOMER_0610,LOW,No Intervention,5179,5179,0,Recovered,Not Sent,-10
+CUSTOMER_0611,LOW,No Intervention,9042,9042,0,Recovered,Not Sent,-8
+CUSTOMER_0612,LOW,No Intervention,5886,5886,0,Recovered,Not Sent,-4
+CUSTOMER_0613,LOW,No Intervention,16057,16057,0,Recovered,Not Sent,-8
+CUSTOMER_0614,LOW,No Intervention,1855,1855,0,Recovered,Not Sent,-10
+CUSTOMER_0615,LOW,No Intervention,12560,12560,0,Recovered,Not Sent,-1
+CUSTOMER_0616,AT-RISK,Email Reminder,8143,0,8143,Pending,Not Sent,-7
+CUSTOMER_0617,LOW,No Intervention,2090,2090,0,Recovered,Not Sent,-4
+CUSTOMER_0618,AT-RISK,Email Reminder,6222,6222,0,Recovered,Not Sent,-4
+CUSTOMER_0619,LOW,No Intervention,8211,8211,0,Recovered,Not Sent,-4
+CUSTOMER_0620,LOW,No Intervention,4632,4632,0,Recovered,Not Sent,-1
+CUSTOMER_0621,AT-RISK,Email Reminder,1076,1076,0,Recovered,Not Sent,-4
+CUSTOMER_0622,HIGH,Phone Call,4397,1822,2575,Partially Recovered,Not Sent,-4
+CUSTOMER_0623,LOW,No Intervention,23128,23128,0,Recovered,Not Sent,-4
+CUSTOMER_0624,LOW,No Intervention,4300,999,3301,Partially Recovered,Not Sent,-7
+CUSTOMER_0625,LOW,No Intervention,7662,7662,0,Recovered,Not Sent,-5
+CUSTOMER_0626,CRITICAL,Manual Follow-up,17717,0,17717,Not Recovered,Not Sent,-6
+CUSTOMER_0627,LOW,No Intervention,3921,3921,0,Recovered,Not Sent,-1
+CUSTOMER_0628,CRITICAL,Manual Follow-up,1591,0,1591,Not Recovered,Not Sent,-10
+CUSTOMER_0629,HIGH,Phone Call,10088,5247,4841,Partially Recovered,Not Sent,-9
+CUSTOMER_0630,LOW,No Intervention,6615,6615,0,Recovered,Not Sent,-5
+CUSTOMER_0631,LOW,No Intervention,2241,2241,0,Recovered,Not Sent,-2
+CUSTOMER_0632,HIGH,Phone Call,15100,0,15100,Not Recovered,Not Sent,-4
+CUSTOMER_0633,LOW,No Intervention,1325,269,1056,Partially Recovered,Not Sent,-2
+CUSTOMER_0634,LOW,No Intervention,5015,5015,0,Recovered,Not Sent,-8
+CUSTOMER_0635,LOW,No Intervention,3063,3063,0,Recovered,Not Sent,-6
+CUSTOMER_0636,LOW,No Intervention,7572,7572,0,Recovered,Not Sent,-3
+CUSTOMER_0637,AT-RISK,Email Reminder,14052,7700,6352,Partially Recovered,Not Sent,-8
+CUSTOMER_0638,LOW,No Intervention,3992,3992,0,Recovered,Not Sent,-2
+CUSTOMER_0639,LOW,No Intervention,18552,18552,0,Recovered,Not Sent,-6
+CUSTOMER_0640,AT-RISK,Email Reminder,10381,10381,0,Recovered,Not Sent,-7
+CUSTOMER_0641,HIGH,Phone Call,6252,6252,0,Recovered,Not Sent,-5
+CUSTOMER_0642,HIGH,Phone Call,10573,10573,0,Recovered,Not Sent,-6
+CUSTOMER_0643,LOW,No Intervention,10915,10915,0,Recovered,Not Sent,-4
+CUSTOMER_0644,CRITICAL,Manual Follow-up,12359,12359,0,Recovered,Not Sent,-4
+CUSTOMER_0645,LOW,No Intervention,13873,13873,0,Recovered,Not Sent,-9
+CUSTOMER_0646,LOW,No Intervention,1455,1455,0,Recovered,Not Sent,-7
+CUSTOMER_0647,AT-RISK,Email Reminder,9593,5544,4049,Partially Recovered,Not Sent,-7
+CUSTOMER_0648,HIGH,Phone Call,8040,0,8040,Not Recovered,Not Sent,-2
+CUSTOMER_0649,HIGH,Phone Call,26797,0,26797,Not Recovered,Not Sent,-8
+CUSTOMER_0650,LOW,No Intervention,8202,8202,0,Recovered,Not Sent,-1
+CUSTOMER_0651,AT-RISK,Email Reminder,4900,2878,2022,Partially Recovered,Not Sent,-6
+CUSTOMER_0652,HIGH,Phone Call,27917,27917,0,Recovered,Not Sent,-8
+CUSTOMER_0653,LOW,No Intervention,6307,3704,2603,Partially Recovered,Not Sent,-6
+CUSTOMER_0654,LOW,No Intervention,18011,18011,0,Recovered,Not Sent,-9
+CUSTOMER_0655,AT-RISK,Email Reminder,3753,3753,0,Recovered,Not Sent,-7
+CUSTOMER_0656,CRITICAL,Manual Follow-up,10289,0,10289,Not Recovered,Not Sent,-2
+CUSTOMER_0657,AT-RISK,Email Reminder,2319,2319,0,Recovered,Not Sent,-7
+CUSTOMER_0658,LOW,No Intervention,4678,4678,0,Recovered,Not Sent,-4
+CUSTOMER_0659,AT-RISK,Email Reminder,14341,14341,0,Recovered,Not Sent,-1
+CUSTOMER_0660,LOW,No Intervention,18149,18149,0,Recovered,Not Sent,-2
+CUSTOMER_0661,AT-RISK,Email Reminder,7556,7556,0,Recovered,Not Sent,-2
+CUSTOMER_0662,LOW,No Intervention,16677,16677,0,Recovered,Not Sent,-7
+CUSTOMER_0663,HIGH,Phone Call,11585,3024,8561,Partially Recovered,Not Sent,-4
+CUSTOMER_0664,LOW,No Intervention,10154,10154,0,Recovered,Not Sent,-2
+CUSTOMER_0665,LOW,No Intervention,1068,1068,0,Recovered,Not Sent,-3
+CUSTOMER_0666,HIGH,Phone Call,1022,1022,0,Recovered,Not Sent,-1
+CUSTOMER_0667,LOW,No Intervention,5236,5236,0,Recovered,Not Sent,-4
+CUSTOMER_0668,AT-RISK,Email Reminder,7098,7098,0,Recovered,Not Sent,-4
+CUSTOMER_0669,LOW,No Intervention,17494,17494,0,Recovered,Not Sent,-2
+CUSTOMER_0670,LOW,No Intervention,15170,15170,0,Recovered,Not Sent,-9
+CUSTOMER_0671,LOW,No Intervention,5006,1865,3141,Partially Recovered,Not Sent,-5
+CUSTOMER_0672,LOW,No Intervention,8114,8114,0,Recovered,Not Sent,-2
+CUSTOMER_0673,AT-RISK,Email Reminder,5954,5954,0,Recovered,Not Sent,-10
+CUSTOMER_0674,AT-RISK,Email Reminder,4979,4979,0,Recovered,Not Sent,-4
+CUSTOMER_0675,LOW,No Intervention,4746,4746,0,Recovered,Not Sent,-7
+CUSTOMER_0676,LOW,No Intervention,1117,1117,0,Recovered,Not Sent,-10
+CUSTOMER_0677,LOW,No Intervention,4235,4235,0,Recovered,Not Sent,-6
+CUSTOMER_0678,AT-RISK,Email Reminder,24282,24282,0,Recovered,Not Sent,-2
+CUSTOMER_0679,HIGH,Phone Call,21843,21843,0,Recovered,Not Sent,-10
+CUSTOMER_0680,LOW,No Intervention,3536,3536,0,Recovered,Not Sent,-1
+CUSTOMER_0681,HIGH,Phone Call,10021,10021,0,Recovered,Not Sent,-9
+CUSTOMER_0682,LOW,No Intervention,10477,10477,0,Recovered,Not Sent,-10
+CUSTOMER_0683,HIGH,Phone Call,10710,0,10710,Not Recovered,Not Sent,-2
+CUSTOMER_0684,AT-RISK,Email Reminder,1014,1014,0,Recovered,Not Sent,-9
+CUSTOMER_0685,LOW,No Intervention,20327,8466,11861,Partially Recovered,Not Sent,-5
+CUSTOMER_0686,LOW,No Intervention,9326,9326,0,Recovered,Not Sent,-8
+CUSTOMER_0687,LOW,No Intervention,15650,15650,0,Recovered,Not Sent,-3
+CUSTOMER_0688,AT-RISK,Email Reminder,22212,22212,0,Recovered,Not Sent,-4
+CUSTOMER_0689,LOW,No Intervention,1346,1346,0,Recovered,Not Sent,-7
+CUSTOMER_0690,AT-RISK,Email Reminder,14434,14434,0,Recovered,Not Sent,-8
+CUSTOMER_0691,HIGH,Phone Call,10374,0,10374,Not Recovered,Not Sent,-4
+CUSTOMER_0692,AT-RISK,Email Reminder,10420,10420,0,Recovered,Not Sent,-6
+CUSTOMER_0693,LOW,No Intervention,23526,6765,16761,Partially Recovered,Not Sent,-7
+CUSTOMER_0694,AT-RISK,Email Reminder,11175,6439,4736,Partially Recovered,Not Sent,-10
+CUSTOMER_0695,AT-RISK,Email Reminder,4033,4033,0,Recovered,Not Sent,-8
+CUSTOMER_0696,LOW,No Intervention,16284,16284,0,Recovered,Not Sent,-10
+CUSTOMER_0697,HIGH,Phone Call,7958,2227,5731,Partially Recovered,Not Sent,-1
+CUSTOMER_0698,LOW,No Intervention,3599,3599,0,Recovered,Not Sent,-10
+CUSTOMER_0699,AT-RISK,Email Reminder,8779,4467,4312,Partially Recovered,Not Sent,-1
+CUSTOMER_0700,LOW,No Intervention,2853,2853,0,Recovered,Not Sent,-9
+CUSTOMER_0701,HIGH,Phone Call,11035,11035,0,Recovered,Not Sent,-10
+CUSTOMER_0702,LOW,No Intervention,15028,15028,0,Recovered,Not Sent,-10
+CUSTOMER_0703,CRITICAL,Manual Follow-up,15146,15146,0,Recovered,Not Sent,-4
+CUSTOMER_0704,LOW,No Intervention,6795,6795,0,Recovered,Not Sent,-4
+CUSTOMER_0705,LOW,No Intervention,1675,1675,0,Recovered,Not Sent,-2
+CUSTOMER_0706,AT-RISK,Email Reminder,11725,11725,0,Recovered,Not Sent,-1
+CUSTOMER_0707,AT-RISK,Email Reminder,6039,6039,0,Recovered,Not Sent,-7
+CUSTOMER_0708,AT-RISK,Email Reminder,26492,26492,0,Recovered,Not Sent,-2
+CUSTOMER_0709,AT-RISK,Email Reminder,16947,0,16947,Pending,Not Sent,-10
+CUSTOMER_0710,LOW,No Intervention,23971,23971,0,Recovered,Not Sent,-10
+CUSTOMER_0711,HIGH,Phone Call,8656,0,8656,Not Recovered,Not Sent,-1
+CUSTOMER_0712,LOW,No Intervention,1841,1841,0,Recovered,Not Sent,-2
+CUSTOMER_0713,LOW,No Intervention,2733,2733,0,Recovered,Not Sent,-2
+CUSTOMER_0714,LOW,No Intervention,16380,16380,0,Recovered,Not Sent,-9
+CUSTOMER_0715,LOW,No Intervention,8018,8018,0,Recovered,Not Sent,-8
+CUSTOMER_0716,LOW,No Intervention,3764,3764,0,Recovered,Not Sent,-3
+CUSTOMER_0717,CRITICAL,Manual Follow-up,7328,7328,0,Recovered,Not Sent,-7
+CUSTOMER_0718,LOW,No Intervention,5447,5447,0,Recovered,Not Sent,-6
+CUSTOMER_0719,HIGH,Phone Call,7190,7190,0,Recovered,Not Sent,-5
+CUSTOMER_0720,LOW,No Intervention,3654,3654,0,Recovered,Not Sent,-7
+CUSTOMER_0721,LOW,No Intervention,8436,8436,0,Recovered,Not Sent,-8
+CUSTOMER_0722,LOW,No Intervention,5226,5226,0,Recovered,Not Sent,-3
+CUSTOMER_0723,AT-RISK,Email Reminder,1087,1087,0,Recovered,Not Sent,-7
+CUSTOMER_0724,AT-RISK,Email Reminder,11080,4631,6449,Partially Recovered,Not Sent,-10
+CUSTOMER_0725,CRITICAL,Manual Follow-up,4966,2872,2094,Partially Recovered,Not Sent,-8
+CUSTOMER_0726,LOW,No Intervention,7977,7977,0,Recovered,Not Sent,-7
+CUSTOMER_0727,AT-RISK,Email Reminder,11157,11157,0,Recovered,Not Sent,-9
+CUSTOMER_0728,AT-RISK,Email Reminder,28770,0,28770,Pending,Not Sent,-8
+CUSTOMER_0729,LOW,No Intervention,4248,4248,0,Recovered,Not Sent,-9
+CUSTOMER_0730,HIGH,Phone Call,21241,0,21241,Not Recovered,Not Sent,-8
+CUSTOMER_0731,LOW,No Intervention,2058,2058,0,Recovered,Not Sent,-8
+CUSTOMER_0732,LOW,No Intervention,8259,5364,2895,Partially Recovered,Not Sent,-2
+CUSTOMER_0733,LOW,No Intervention,3106,3106,0,Recovered,Not Sent,-4
+CUSTOMER_0734,HIGH,Phone Call,11296,11296,0,Recovered,Not Sent,-10
+CUSTOMER_0735,LOW,No Intervention,5124,5124,0,Recovered,Not Sent,-4
+CUSTOMER_0736,LOW,No Intervention,1899,1899,0,Recovered,Not Sent,-4
+CUSTOMER_0737,LOW,No Intervention,4053,4053,0,Recovered,Not Sent,-1
+CUSTOMER_0738,LOW,No Intervention,1698,1698,0,Recovered,Not Sent,-3
+CUSTOMER_0739,LOW,No Intervention,2252,2252,0,Recovered,Not Sent,-2
+CUSTOMER_0740,LOW,No Intervention,5014,5014,0,Recovered,Not Sent,-8
+CUSTOMER_0741,AT-RISK,Email Reminder,4757,4757,0,Recovered,Not Sent,-6
+CUSTOMER_0742,LOW,No Intervention,12555,12555,0,Recovered,Not Sent,-9
+CUSTOMER_0743,AT-RISK,Email Reminder,11574,3725,7849,Partially Recovered,Not Sent,-5
+CUSTOMER_0744,HIGH,Phone Call,9010,2133,6877,Partially Recovered,Not Sent,-1
+CUSTOMER_0745,AT-RISK,Email Reminder,8260,8260,0,Recovered,Not Sent,-4
+CUSTOMER_0746,LOW,No Intervention,5189,5189,0,Recovered,Not Sent,-1
+CUSTOMER_0747,AT-RISK,Email Reminder,42536,0,42536,Pending,Not Sent,-4
+CUSTOMER_0748,LOW,No Intervention,917,917,0,Recovered,Not Sent,-9
+CUSTOMER_0749,LOW,No Intervention,4255,4255,0,Recovered,Not Sent,-9
+CUSTOMER_0750,HIGH,Phone Call,6843,4401,2442,Partially Recovered,Not Sent,-3
+CUSTOMER_0751,LOW,No Intervention,8300,8300,0,Recovered,Not Sent,-2
+CUSTOMER_0752,LOW,No Intervention,11442,11442,0,Recovered,Not Sent,-4
+CUSTOMER_0753,AT-RISK,Email Reminder,5330,5330,0,Recovered,Not Sent,-1
+CUSTOMER_0754,LOW,No Intervention,36069,36069,0,Recovered,Not Sent,-6
+CUSTOMER_0755,LOW,No Intervention,6629,6629,0,Recovered,Not Sent,-5
+CUSTOMER_0756,LOW,No Intervention,4205,4205,0,Recovered,Not Sent,-8
+CUSTOMER_0757,LOW,No Intervention,15478,15478,0,Recovered,Not Sent,-8
+CUSTOMER_0758,LOW,No Intervention,5312,5312,0,Recovered,Not Sent,-7
+CUSTOMER_0759,AT-RISK,Email Reminder,14168,0,14168,Pending,Not Sent,-6
+CUSTOMER_0760,LOW,No Intervention,12884,12884,0,Recovered,Not Sent,-10
+CUSTOMER_0761,LOW,No Intervention,1058,1058,0,Recovered,Not Sent,-3
+CUSTOMER_0762,LOW,No Intervention,5942,5942,0,Recovered,Not Sent,-1
+CUSTOMER_0763,LOW,No Intervention,2330,2330,0,Recovered,Not Sent,-4
+CUSTOMER_0764,LOW,No Intervention,10353,10353,0,Recovered,Not Sent,-2
+CUSTOMER_0765,HIGH,Phone Call,2955,2955,0,Recovered,Not Sent,-8
+CUSTOMER_0766,AT-RISK,Email Reminder,1621,0,1621,Pending,Not Sent,-3
+CUSTOMER_0767,LOW,No Intervention,9607,9607,0,Recovered,Not Sent,-4
+CUSTOMER_0768,AT-RISK,Email Reminder,14377,7697,6680,Partially Recovered,Not Sent,-10
+CUSTOMER_0769,AT-RISK,Email Reminder,8908,2212,6696,Partially Recovered,Not Sent,-6
+CUSTOMER_0770,LOW,No Intervention,19664,7095,12569,Partially Recovered,Not Sent,-3
+CUSTOMER_0771,AT-RISK,Email Reminder,10678,0,10678,Pending,Not Sent,-10
+CUSTOMER_0772,AT-RISK,Email Reminder,10504,10504,0,Recovered,Not Sent,-10
+CUSTOMER_0773,LOW,No Intervention,21219,21219,0,Recovered,Not Sent,-7
+CUSTOMER_0774,AT-RISK,Email Reminder,6755,6755,0,Recovered,Not Sent,-6
+CUSTOMER_0775,LOW,No Intervention,4564,4564,0,Recovered,Not Sent,-7
+CUSTOMER_0776,LOW,No Intervention,16674,16674,0,Recovered,Not Sent,-8
+CUSTOMER_0777,HIGH,Phone Call,4652,0,4652,Pending,Not Sent,-1
+CUSTOMER_0778,LOW,No Intervention,5214,5214,0,Recovered,Not Sent,-3
+CUSTOMER_0779,LOW,No Intervention,32873,32873,0,Recovered,Not Sent,-8
+CUSTOMER_0780,AT-RISK,Email Reminder,1318,785,533,Partially Recovered,Not Sent,-9
+CUSTOMER_0781,LOW,No Intervention,22313,22313,0,Recovered,Not Sent,-2
+CUSTOMER_0782,HIGH,Phone Call,1074,311,763,Partially Recovered,Not Sent,-8
+CUSTOMER_0783,LOW,No Intervention,4729,4729,0,Recovered,Not Sent,-6
+CUSTOMER_0784,LOW,No Intervention,6707,6707,0,Recovered,Not Sent,-4
+CUSTOMER_0785,LOW,No Intervention,7652,7652,0,Recovered,Not Sent,-6
+CUSTOMER_0786,AT-RISK,Email Reminder,5845,1675,4170,Partially Recovered,Not Sent,-1
+CUSTOMER_0787,LOW,No Intervention,5800,5800,0,Recovered,Not Sent,-7
+CUSTOMER_0788,LOW,No Intervention,6178,6178,0,Recovered,Not Sent,-4
+CUSTOMER_0789,CRITICAL,Manual Follow-up,13062,0,13062,Not Recovered,Not Sent,-2
+CUSTOMER_0790,AT-RISK,Email Reminder,20327,20327,0,Recovered,Not Sent,-4
+CUSTOMER_0791,AT-RISK,Email Reminder,11063,0,11063,Pending,Not Sent,-3
+CUSTOMER_0792,AT-RISK,Email Reminder,5072,5072,0,Recovered,Not Sent,-8
+CUSTOMER_0793,AT-RISK,Email Reminder,8171,0,8171,Pending,Not Sent,-10
+CUSTOMER_0794,LOW,No Intervention,4641,4641,0,Recovered,Not Sent,-9
+CUSTOMER_0795,LOW,No Intervention,13646,13646,0,Recovered,Not Sent,-6
+CUSTOMER_0796,LOW,No Intervention,12491,12491,0,Recovered,Not Sent,-5
+CUSTOMER_0797,LOW,No Intervention,4067,4067,0,Recovered,Not Sent,-10
+CUSTOMER_0798,AT-RISK,Email Reminder,9788,5964,3824,Partially Recovered,Not Sent,-9
+CUSTOMER_0799,LOW,No Intervention,9725,9725,0,Recovered,Not Sent,-8
+CUSTOMER_0800,LOW,No Intervention,9160,9160,0,Recovered,Not Sent,-10
+CUSTOMER_0801,LOW,No Intervention,14749,14749,0,Recovered,Not Sent,-1
+CUSTOMER_0802,LOW,No Intervention,1942,1942,0,Recovered,Not Sent,-7
+CUSTOMER_0803,AT-RISK,Email Reminder,1991,1991,0,Recovered,Not Sent,-4
+CUSTOMER_0804,HIGH,Phone Call,4192,0,4192,Not Recovered,Not Sent,-1
+CUSTOMER_0805,LOW,No Intervention,3272,3272,0,Recovered,Not Sent,-10
+CUSTOMER_0806,AT-RISK,Email Reminder,7171,7171,0,Recovered,Not Sent,-6
+CUSTOMER_0807,LOW,No Intervention,9982,9982,0,Recovered,Not Sent,-4
+CUSTOMER_0808,AT-RISK,Email Reminder,5278,5278,0,Recovered,Not Sent,-9
+CUSTOMER_0809,LOW,No Intervention,2486,2486,0,Recovered,Not Sent,-9
+CUSTOMER_0810,AT-RISK,Email Reminder,6739,0,6739,Pending,Not Sent,-7
+CUSTOMER_0811,CRITICAL,Manual Follow-up,3358,3358,0,Recovered,Not Sent,-7
+CUSTOMER_0812,HIGH,Phone Call,46443,19976,26467,Partially Recovered,Not Sent,-2
+CUSTOMER_0813,HIGH,Phone Call,10025,10025,0,Recovered,Not Sent,-1
+CUSTOMER_0814,LOW,No Intervention,2810,2810,0,Recovered,Not Sent,-5
+CUSTOMER_0815,LOW,No Intervention,7520,7520,0,Recovered,Not Sent,-4
+CUSTOMER_0816,LOW,No Intervention,21124,21124,0,Recovered,Not Sent,-9
+CUSTOMER_0817,LOW,No Intervention,5574,5574,0,Recovered,Not Sent,-8
+CUSTOMER_0818,LOW,No Intervention,3525,3525,0,Recovered,Not Sent,-5
+CUSTOMER_0819,LOW,No Intervention,6825,6825,0,Recovered,Not Sent,-2
+CUSTOMER_0820,LOW,No Intervention,4740,4740,0,Recovered,Not Sent,-4
+CUSTOMER_0821,LOW,No Intervention,2424,2424,0,Recovered,Not Sent,-7
+CUSTOMER_0822,HIGH,Phone Call,6086,6086,0,Recovered,Not Sent,-2
+CUSTOMER_0823,LOW,No Intervention,5732,5732,0,Recovered,Not Sent,-4
+CUSTOMER_0824,AT-RISK,Email Reminder,6173,6173,0,Recovered,Not Sent,-8
+CUSTOMER_0825,AT-RISK,Email Reminder,9529,0,9529,Pending,Not Sent,-6
+CUSTOMER_0826,AT-RISK,Email Reminder,6420,6420,0,Recovered,Not Sent,-8
+CUSTOMER_0827,LOW,No Intervention,5512,5512,0,Recovered,Not Sent,-7
+CUSTOMER_0828,HIGH,Phone Call,6806,6806,0,Recovered,Not Sent,-10
+CUSTOMER_0829,AT-RISK,Email Reminder,12037,0,12037,Pending,Not Sent,-2
+CUSTOMER_0830,HIGH,Phone Call,7117,7117,0,Recovered,Not Sent,-6
+CUSTOMER_0831,AT-RISK,Email Reminder,4133,4133,0,Recovered,Not Sent,-7
+CUSTOMER_0832,LOW,No Intervention,17859,17859,0,Recovered,Not Sent,-1
+CUSTOMER_0833,LOW,No Intervention,11561,11561,0,Recovered,Not Sent,-7
+CUSTOMER_0834,AT-RISK,Email Reminder,10327,10327,0,Recovered,Not Sent,-10
+CUSTOMER_0835,LOW,No Intervention,5765,5765,0,Recovered,Not Sent,-6
+CUSTOMER_0836,LOW,No Intervention,2020,2020,0,Recovered,Not Sent,-3
+CUSTOMER_0837,HIGH,Phone Call,19445,19445,0,Recovered,Not Sent,-8
+CUSTOMER_0838,LOW,No Intervention,5733,5733,0,Recovered,Not Sent,-9
+CUSTOMER_0839,LOW,No Intervention,6297,6297,0,Recovered,Not Sent,-4
+CUSTOMER_0840,HIGH,Phone Call,35034,0,35034,Not Recovered,Not Sent,-10
+CUSTOMER_0841,HIGH,Phone Call,6570,6570,0,Recovered,Not Sent,-8
+CUSTOMER_0842,LOW,No Intervention,5064,5064,0,Recovered,Not Sent,-2
+CUSTOMER_0843,HIGH,Phone Call,1111,1111,0,Recovered,Not Sent,-2
+CUSTOMER_0844,LOW,No Intervention,6261,6261,0,Recovered,Not Sent,-8
+CUSTOMER_0845,AT-RISK,Email Reminder,8571,3106,5465,Partially Recovered,Not Sent,-1
+CUSTOMER_0846,LOW,No Intervention,3639,3639,0,Recovered,Not Sent,-9
+CUSTOMER_0847,LOW,No Intervention,18283,18283,0,Recovered,Not Sent,-4
+CUSTOMER_0848,HIGH,Phone Call,13143,13143,0,Recovered,Not Sent,-9
+CUSTOMER_0849,LOW,No Intervention,9197,9197,0,Recovered,Not Sent,-10
+CUSTOMER_0850,LOW,No Intervention,4642,4642,0,Recovered,Not Sent,-5
+CUSTOMER_0851,LOW,No Intervention,13094,13094,0,Recovered,Not Sent,-8
+CUSTOMER_0852,LOW,No Intervention,5534,5534,0,Recovered,Not Sent,-2
+CUSTOMER_0853,LOW,No Intervention,8379,8379,0,Recovered,Not Sent,-3
+CUSTOMER_0854,AT-RISK,Email Reminder,11690,11690,0,Recovered,Not Sent,-6
+CUSTOMER_0855,AT-RISK,Email Reminder,4627,4627,0,Recovered,Not Sent,-9
+CUSTOMER_0856,LOW,No Intervention,14411,14411,0,Recovered,Not Sent,-2
+CUSTOMER_0857,HIGH,Phone Call,8030,0,8030,Not Recovered,Not Sent,-8
+CUSTOMER_0858,LOW,No Intervention,13784,13784,0,Recovered,Not Sent,-6
+CUSTOMER_0859,AT-RISK,Email Reminder,8338,2855,5483,Partially Recovered,Not Sent,-9
+CUSTOMER_0860,AT-RISK,Email Reminder,12225,0,12225,Pending,Not Sent,-8
+CUSTOMER_0861,AT-RISK,Email Reminder,10393,10393,0,Recovered,Not Sent,-2
+CUSTOMER_0862,AT-RISK,Email Reminder,4366,4366,0,Recovered,Not Sent,-4
+CUSTOMER_0863,CRITICAL,Manual Follow-up,13220,0,13220,Not Recovered,Not Sent,-7
+CUSTOMER_0864,AT-RISK,Email Reminder,19866,0,19866,Pending,Not Sent,-10
+CUSTOMER_0865,AT-RISK,Email Reminder,6626,6626,0,Recovered,Not Sent,-10
+CUSTOMER_0866,LOW,No Intervention,2805,2805,0,Recovered,Not Sent,-5
+CUSTOMER_0867,HIGH,Phone Call,3667,1977,1690,Partially Recovered,Not Sent,-9
+CUSTOMER_0868,AT-RISK,Email Reminder,19187,9784,9403,Partially Recovered,Not Sent,-9
+CUSTOMER_0869,AT-RISK,Email Reminder,14525,14525,0,Recovered,Not Sent,-5
+CUSTOMER_0870,LOW,No Intervention,7243,7243,0,Recovered,Not Sent,-10
+CUSTOMER_0871,HIGH,Phone Call,12008,12008,0,Recovered,Not Sent,-2
+CUSTOMER_0872,CRITICAL,Manual Follow-up,6267,6267,0,Recovered,Not Sent,-9
+CUSTOMER_0873,AT-RISK,Email Reminder,8474,8474,0,Recovered,Not Sent,-1
+CUSTOMER_0874,LOW,No Intervention,8005,8005,0,Recovered,Not Sent,-1
+CUSTOMER_0875,AT-RISK,Email Reminder,6301,6301,0,Recovered,Not Sent,-3
+CUSTOMER_0876,AT-RISK,Email Reminder,7821,7821,0,Recovered,Not Sent,-2
+CUSTOMER_0877,HIGH,Phone Call,12619,12619,0,Recovered,Not Sent,-9
+CUSTOMER_0878,AT-RISK,Email Reminder,37913,37913,0,Recovered,Not Sent,-9
+CUSTOMER_0879,LOW,No Intervention,16759,16759,0,Recovered,Not Sent,-3
+CUSTOMER_0880,AT-RISK,Email Reminder,22076,0,22076,Not Recovered,Not Sent,-9
+CUSTOMER_0881,CRITICAL,Manual Follow-up,7686,3787,3899,Partially Recovered,Not Sent,-1
+CUSTOMER_0882,LOW,No Intervention,14874,14874,0,Recovered,Not Sent,-10
+CUSTOMER_0883,CRITICAL,Manual Follow-up,30731,0,30731,Pending,Not Sent,-3
+CUSTOMER_0884,AT-RISK,Email Reminder,6146,6146,0,Recovered,Not Sent,-3
+CUSTOMER_0885,AT-RISK,Email Reminder,7065,1521,5544,Partially Recovered,Not Sent,-10
+CUSTOMER_0886,CRITICAL,Manual Follow-up,24056,0,24056,Pending,Not Sent,-5
+CUSTOMER_0887,LOW,No Intervention,16541,16541,0,Recovered,Not Sent,-2
+CUSTOMER_0888,LOW,No Intervention,13394,13394,0,Recovered,Not Sent,-2
+CUSTOMER_0889,AT-RISK,Email Reminder,14108,14108,0,Recovered,Not Sent,-7
+CUSTOMER_0890,LOW,No Intervention,3987,3987,0,Recovered,Not Sent,-3
+CUSTOMER_0891,AT-RISK,Email Reminder,3574,1272,2302,Partially Recovered,Not Sent,-2
+CUSTOMER_0892,CRITICAL,Manual Follow-up,11352,11352,0,Recovered,Not Sent,-8
+CUSTOMER_0893,LOW,No Intervention,9576,3147,6429,Partially Recovered,Not Sent,-10
+CUSTOMER_0894,AT-RISK,Email Reminder,7408,7408,0,Recovered,Not Sent,-8
+CUSTOMER_0895,LOW,No Intervention,5336,5336,0,Recovered,Not Sent,-3
+CUSTOMER_0896,HIGH,Phone Call,20317,0,20317,Pending,Not Sent,-6
+CUSTOMER_0897,LOW,No Intervention,3729,3729,0,Recovered,Not Sent,-3
+CUSTOMER_0898,AT-RISK,Email Reminder,1911,1911,0,Recovered,Not Sent,-7
+CUSTOMER_0899,LOW,No Intervention,15281,15281,0,Recovered,Not Sent,-4
+CUSTOMER_0900,HIGH,Phone Call,10724,10724,0,Recovered,Not Sent,-9
+CUSTOMER_0901,AT-RISK,Email Reminder,9490,9490,0,Recovered,Not Sent,-7
+CUSTOMER_0902,LOW,No Intervention,15925,15925,0,Recovered,Not Sent,-10
+CUSTOMER_0903,LOW,No Intervention,19153,19153,0,Recovered,Not Sent,-10
+CUSTOMER_0904,AT-RISK,Email Reminder,6422,6422,0,Recovered,Not Sent,-3
+CUSTOMER_0905,AT-RISK,Email Reminder,3642,3642,0,Recovered,Not Sent,-3
+CUSTOMER_0906,LOW,No Intervention,16520,16520,0,Recovered,Not Sent,-9
+CUSTOMER_0907,HIGH,Phone Call,10872,0,10872,Pending,Not Sent,-2
+CUSTOMER_0908,AT-RISK,Email Reminder,2839,1450,1389,Partially Recovered,Not Sent,-1
+CUSTOMER_0909,CRITICAL,Manual Follow-up,9601,0,9601,Pending,Not Sent,-5
+CUSTOMER_0910,AT-RISK,Email Reminder,6876,6876,0,Recovered,Not Sent,-1
+CUSTOMER_0911,LOW,No Intervention,15976,15976,0,Recovered,Not Sent,-5
+CUSTOMER_0912,HIGH,Phone Call,15322,15322,0,Recovered,Not Sent,-1
+CUSTOMER_0913,CRITICAL,Manual Follow-up,906,0,906,Not Recovered,Not Sent,-3
+CUSTOMER_0914,LOW,No Intervention,2515,2515,0,Recovered,Not Sent,-3
+CUSTOMER_0915,CRITICAL,Manual Follow-up,10718,10718,0,Recovered,Not Sent,-10
+CUSTOMER_0916,AT-RISK,Email Reminder,3294,0,3294,Not Recovered,Not Sent,-7
+CUSTOMER_0917,LOW,No Intervention,3034,3034,0,Recovered,Not Sent,-10
+CUSTOMER_0918,LOW,No Intervention,12707,12707,0,Recovered,Not Sent,-8
+CUSTOMER_0919,LOW,No Intervention,9195,9195,0,Recovered,Not Sent,-4
+CUSTOMER_0920,AT-RISK,Email Reminder,12635,2537,10098,Partially Recovered,Not Sent,-6
+CUSTOMER_0921,AT-RISK,Email Reminder,3458,3458,0,Recovered,Not Sent,-6
+CUSTOMER_0922,LOW,No Intervention,7488,7488,0,Recovered,Not Sent,-4
+CUSTOMER_0923,LOW,No Intervention,13018,13018,0,Recovered,Not Sent,-7
+CUSTOMER_0924,LOW,No Intervention,8458,8458,0,Recovered,Not Sent,-8
+CUSTOMER_0925,LOW,No Intervention,23149,23149,0,Recovered,Not Sent,-2
+CUSTOMER_0926,AT-RISK,Email Reminder,2649,2649,0,Recovered,Not Sent,-1
+CUSTOMER_0927,CRITICAL,Manual Follow-up,5778,1634,4144,Partially Recovered,Not Sent,-5
+CUSTOMER_0928,LOW,No Intervention,19001,19001,0,Recovered,Not Sent,-5
+CUSTOMER_0929,LOW,No Intervention,20107,20107,0,Recovered,Not Sent,-3
+CUSTOMER_0930,LOW,No Intervention,11072,11072,0,Recovered,Not Sent,-2
+CUSTOMER_0931,LOW,No Intervention,3140,3140,0,Recovered,Not Sent,-4
+CUSTOMER_0932,HIGH,Phone Call,4518,2918,1600,Partially Recovered,Not Sent,-5
+CUSTOMER_0933,LOW,No Intervention,1917,1917,0,Recovered,Not Sent,-7
+CUSTOMER_0934,AT-RISK,Email Reminder,5201,5201,0,Recovered,Not Sent,-4
+CUSTOMER_0935,LOW,No Intervention,11657,11657,0,Recovered,Not Sent,-8
+CUSTOMER_0936,LOW,No Intervention,5719,5719,0,Recovered,Not Sent,-7
+CUSTOMER_0937,LOW,No Intervention,10229,10229,0,Recovered,Not Sent,-2
+CUSTOMER_0938,AT-RISK,Email Reminder,15468,15468,0,Recovered,Not Sent,-8
+CUSTOMER_0939,HIGH,Phone Call,10815,10815,0,Recovered,Not Sent,-1
+CUSTOMER_0940,AT-RISK,Email Reminder,9968,9968,0,Recovered,Not Sent,-10
+CUSTOMER_0941,AT-RISK,Email Reminder,4256,2770,1486,Partially Recovered,Not Sent,-5
+CUSTOMER_0942,HIGH,Phone Call,5643,5643,0,Recovered,Not Sent,-1
+CUSTOMER_0943,AT-RISK,Email Reminder,10667,0,10667,Pending,Not Sent,-7
+CUSTOMER_0944,HIGH,Phone Call,5317,2821,2496,Partially Recovered,Not Sent,-6
+CUSTOMER_0945,AT-RISK,Email Reminder,11924,11924,0,Recovered,Not Sent,-4
+CUSTOMER_0946,HIGH,Phone Call,13645,6775,6870,Partially Recovered,Not Sent,-10
+CUSTOMER_0947,AT-RISK,Email Reminder,7660,7660,0,Recovered,Not Sent,-7
+CUSTOMER_0948,LOW,No Intervention,3290,3290,0,Recovered,Not Sent,-10
+CUSTOMER_0949,LOW,No Intervention,9259,9259,0,Recovered,Not Sent,-5
+CUSTOMER_0950,LOW,No Intervention,32099,32099,0,Recovered,Not Sent,-1
+CUSTOMER_0951,LOW,No Intervention,3367,3367,0,Recovered,Not Sent,-9
+CUSTOMER_0952,LOW,No Intervention,5248,5248,0,Recovered,Not Sent,-5
+CUSTOMER_0953,CRITICAL,Manual Follow-up,6834,6834,0,Recovered,Not Sent,-10
+CUSTOMER_0954,LOW,No Intervention,6741,6741,0,Recovered,Not Sent,-6
+CUSTOMER_0955,AT-RISK,Email Reminder,4345,1647,2698,Partially Recovered,Not Sent,-3
+CUSTOMER_0956,LOW,No Intervention,1733,1733,0,Recovered,Not Sent,-10
+CUSTOMER_0957,LOW,No Intervention,15595,15595,0,Recovered,Not Sent,-9
+CUSTOMER_0958,CRITICAL,Manual Follow-up,9465,5752,3713,Partially Recovered,Not Sent,-3
+CUSTOMER_0959,LOW,No Intervention,5292,5292,0,Recovered,Not Sent,-9
+CUSTOMER_0960,HIGH,Phone Call,7664,0,7664,Not Recovered,Not Sent,-5
+CUSTOMER_0961,LOW,No Intervention,5136,5136,0,Recovered,Not Sent,-10
+CUSTOMER_0962,LOW,No Intervention,4951,4951,0,Recovered,Not Sent,-6
+CUSTOMER_0963,LOW,No Intervention,5857,5857,0,Recovered,Not Sent,-10
+CUSTOMER_0964,LOW,No Intervention,12742,12742,0,Recovered,Not Sent,-9
+CUSTOMER_0965,CRITICAL,Manual Follow-up,17865,10994,6871,Partially Recovered,Not Sent,-4
+CUSTOMER_0966,LOW,No Intervention,2816,2816,0,Recovered,Not Sent,-6
+CUSTOMER_0967,LOW,No Intervention,9877,9877,0,Recovered,Not Sent,-7
+CUSTOMER_0968,LOW,No Intervention,20706,20706,0,Recovered,Not Sent,-6
+CUSTOMER_0969,CRITICAL,Manual Follow-up,23697,0,23697,Not Recovered,Not Sent,-6
+CUSTOMER_0970,LOW,No Intervention,11236,11236,0,Recovered,Not Sent,-3
+CUSTOMER_0971,LOW,No Intervention,17121,17121,0,Recovered,Not Sent,-10
+CUSTOMER_0972,LOW,No Intervention,4045,4045,0,Recovered,Not Sent,-1
+CUSTOMER_0973,LOW,No Intervention,3910,3910,0,Recovered,Not Sent,-4
+CUSTOMER_0974,CRITICAL,Manual Follow-up,9238,9238,0,Recovered,Not Sent,-6
+CUSTOMER_0975,LOW,No Intervention,4358,4358,0,Recovered,Not Sent,-9
+CUSTOMER_0976,LOW,No Intervention,3593,3593,0,Recovered,Not Sent,-5
+CUSTOMER_0977,CRITICAL,Manual Follow-up,21448,0,21448,Pending,Not Sent,-8
+CUSTOMER_0978,LOW,No Intervention,6564,6564,0,Recovered,Not Sent,-8
+CUSTOMER_0979,LOW,No Intervention,5747,5747,0,Recovered,Not Sent,-2
+CUSTOMER_0980,LOW,No Intervention,7201,7201,0,Recovered,Not Sent,-10
+CUSTOMER_0981,LOW,No Intervention,3336,3336,0,Recovered,Not Sent,-4
+CUSTOMER_0982,LOW,No Intervention,4287,4287,0,Recovered,Not Sent,-7
+CUSTOMER_0983,HIGH,Phone Call,30556,30556,0,Recovered,Not Sent,-10
+CUSTOMER_0984,AT-RISK,Email Reminder,6696,2708,3988,Partially Recovered,Not Sent,-4
+CUSTOMER_0985,CRITICAL,Manual Follow-up,1571,1571,0,Recovered,Not Sent,-10
+CUSTOMER_0986,LOW,No Intervention,11622,11622,0,Recovered,Not Sent,-3
+CUSTOMER_0987,LOW,No Intervention,7339,7339,0,Recovered,Not Sent,-7
+CUSTOMER_0988,LOW,No Intervention,9387,9387,0,Recovered,Not Sent,-5
+CUSTOMER_0989,LOW,No Intervention,12755,12755,0,Recovered,Not Sent,-7
+CUSTOMER_0990,LOW,No Intervention,11719,11719,0,Recovered,Not Sent,-4
+CUSTOMER_0991,HIGH,Phone Call,4957,2944,2013,Partially Recovered,Not Sent,-5
+CUSTOMER_0992,AT-RISK,Email Reminder,8164,8164,0,Recovered,Not Sent,-3
+CUSTOMER_0993,LOW,No Intervention,27603,27603,0,Recovered,Not Sent,-2
+CUSTOMER_0994,LOW,No Intervention,4730,4730,0,Recovered,Not Sent,-1
+CUSTOMER_0995,LOW,No Intervention,12806,12806,0,Recovered,Not Sent,-4
+CUSTOMER_0996,LOW,No Intervention,6075,6075,0,Recovered,Not Sent,-3
+CUSTOMER_0997,LOW,No Intervention,16221,16221,0,Recovered,Not Sent,-4
+CUSTOMER_0998,LOW,No Intervention,4452,4452,0,Recovered,Not Sent,-5
+CUSTOMER_0999,AT-RISK,Email Reminder,3147,3147,0,Recovered,Not Sent,-10
+CUSTOMER_1000,LOW,No Intervention,6413,6413,0,Recovered,Not Sent,-1
